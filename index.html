@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Huangsi Furniture 官方网站部署占位页。" />
+    <title>Huangsi Furniture</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #f7f3ec;
+        color: #241b16;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+      }
+      main {
+        width: min(720px, 100%);
+        padding: 48px;
+        border-radius: 28px;
+        background: rgba(255, 255, 255, 0.82);
+        box-shadow: 0 24px 80px rgba(55, 38, 24, 0.14);
+        border: 1px solid rgba(104, 75, 48, 0.16);
+      }
+      .eyebrow {
+        margin: 0 0 16px;
+        color: #8a5d35;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+      h1 {
+        margin: 0 0 18px;
+        font-size: clamp(40px, 8vw, 76px);
+        line-height: 0.95;
+      }
+      p {
+        margin: 0;
+        color: #5e5148;
+        font-size: 18px;
+        line-height: 1.7;
+      }
+      .domain {
+        display: inline-flex;
+        margin-top: 28px;
+        padding: 12px 18px;
+        border-radius: 999px;
+        background: #241b16;
+        color: #fff;
+        font-weight: 700;
+        text-decoration: none;
+      }
+      @media (max-width: 560px) {
+        main { padding: 32px 24px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="eyebrow">Official Website</p>
+      <h1>Huangsi Furniture</h1>
+      <p>网站已准备接入 GitHub + Vercel 部署流程。正式网站包同步到仓库后，Vercel 将自动构建并发布到生产环境。</p>
+      <a class="domain" href="https://huangsifurniture.com">huangsifurniture.com</a>
+    </main>
+  </body>
+</html>
