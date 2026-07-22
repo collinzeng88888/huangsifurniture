@@ -1,0 +1,14 @@
+Homepage photography sources
+============================
+The homepage uses photographs downloaded from Unsplash and marked free to use under the Unsplash License at the time of download.
+
+- Aalo Lens — modern office interior with desks and chairs — https://unsplash.com/photos/IN_YVhv-Le8
+- David Kristianto — modern office interior / furniture showroom — https://unsplash.com/photos/RSjrZB-WSPA
+- David Kristianto — chair showroom — https://unsplash.com/photos/rItWuQHaOpM
+- Aalo Lens — modern reception lobby — https://unsplash.com/photos/Ypv0MH4izf8
+- Aalo Lens — office lounge — https://unsplash.com/photos/T66U5HVG81U
+- Aalo Lens — reception desk detail — https://unsplash.com/photos/pt0nGH-NvoA
+- Fancy Walls — manufacturing workshop — https://unsplash.com/photos/6CiaDP34EcA
+- Caroline Badran — modern meeting space — https://unsplash.com/photos/B74lBYC3PXI
+
+Replace these generic reference photographs with the company's real factory, showroom, product and project photography before final commercial launch.
