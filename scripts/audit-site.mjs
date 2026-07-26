@@ -29,7 +29,9 @@ const htmlFiles = walk(root).filter((file) => file.endsWith(".html"));
 let missingImageDimensions = 0;
 let formCount = 0;
 let blogPostingCount = 0;
+let faqPageCount = 0;
 let noindexCaseCount = 0;
+let breadcrumbCount = 0;
 
 for (const file of htmlFiles) {
   const relative = path.relative(root, file).replaceAll(path.sep, "/");
@@ -42,6 +44,12 @@ for (const file of htmlFiles) {
 
   if (!title) issues.push(`${relative}: missing title`);
   if (!description) issues.push(`${relative}: missing meta description`);
+  if (!isNoindex && title && title.length > 65) {
+    issues.push(`${relative}: title is longer than 65 characters`);
+  }
+  if (!isNoindex && description && (description.length < 120 || description.length > 165)) {
+    issues.push(`${relative}: meta description should be 120-165 characters`);
+  }
   if (canonical !== expectedUrl(relative)) {
     issues.push(`${relative}: canonical mismatch (${canonical ?? "missing"})`);
   }
@@ -57,6 +65,8 @@ for (const file of htmlFiles) {
     try {
       const data = JSON.parse(script[1]);
       if (JSON.stringify(data).includes('"BlogPosting"')) blogPostingCount += 1;
+      if (JSON.stringify(data).includes('"FAQPage"')) faqPageCount += 1;
+      if (JSON.stringify(data).includes('"BreadcrumbList"')) breadcrumbCount += 1;
     } catch (error) {
       issues.push(`${relative}: invalid JSON-LD (${error.message})`);
     }
@@ -72,6 +82,12 @@ for (const file of htmlFiles) {
 
   for (const link of html.matchAll(/href="([^"]+)"/gi)) {
     const href = link[1];
+    if (href.startsWith("#") && href.length > 1) {
+      const id = href.slice(1).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      if (!new RegExp(`\\bid=["']${id}["']`, "i").test(html)) {
+        issues.push(`${relative}: broken page fragment ${href}`);
+      }
+    }
     if (!href.startsWith("/") || href.startsWith("//")) continue;
     if (/\.[a-z0-9]+$/i.test(href.split(/[?#]/)[0])) continue;
     const target = localTarget(href);
@@ -80,6 +96,12 @@ for (const file of htmlFiles) {
 
   formCount += (html.match(/data-rfq-form/g) ?? []).length;
   if (relative.startsWith("case-studies/") && isNoindex) noindexCaseCount += 1;
+  if (!html.includes('rel="icon"')) issues.push(`${relative}: missing favicon link`);
+  if (!html.includes('href="/privacy"')) issues.push(`${relative}: missing privacy link`);
+  if (!html.includes('href="/terms"')) issues.push(`${relative}: missing terms link`);
+  if (!isNoindex && relative !== "index.html" && !html.includes('"BreadcrumbList"')) {
+    issues.push(`${relative}: missing BreadcrumbList schema`);
+  }
 }
 
 const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
@@ -89,15 +111,24 @@ if (sitemapUrls.some((url) => url.includes("/case-studies/"))) issues.push("site
 if (new Set(sitemapUrls).size !== sitemapUrls.length) issues.push("sitemap.xml: contains duplicate URLs");
 
 if (blogPostingCount !== 10) issues.push(`expected 10 BlogPosting schemas, found ${blogPostingCount}`);
+if (faqPageCount < 10) issues.push(`expected at least 10 FAQPage schemas, found ${faqPageCount}`);
 if (noindexCaseCount !== 6) issues.push(`expected 6 noindex case studies, found ${noindexCaseCount}`);
 if (missingImageDimensions !== 0) issues.push(`${missingImageDimensions} raster images missing dimensions`);
 if (formCount < 1) issues.push("no functional RFQ form found");
+if (!fs.existsSync(path.join(root, "favicon.svg"))) issues.push("favicon.svg is missing");
+if (!fs.existsSync(path.join(root, "404.html"))) issues.push("404.html is missing");
+if (!fs.existsSync(path.join(root, "privacy.html"))) issues.push("privacy.html is missing");
+if (!fs.existsSync(path.join(root, "terms.html"))) issues.push("terms.html is missing");
+const homepage = fs.readFileSync(path.join(root, "index.html"), "utf8");
+if (!homepage.includes('"WebSite"')) issues.push("index.html: missing WebSite schema");
 
 const summary = {
   htmlFiles: htmlFiles.length,
   sitemapUrls: sitemapUrls.length,
   functionalRfqForms: formCount,
   blogPostingSchemas: blogPostingCount,
+  faqPageSchemas: faqPageCount,
+  breadcrumbSchemas: breadcrumbCount,
   noindexCaseStudies: noindexCaseCount,
   missingRasterImageDimensions: missingImageDimensions,
   issues: issues.length,

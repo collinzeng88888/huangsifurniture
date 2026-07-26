@@ -1,25 +1,28 @@
 Priority,Keyword,Target Page,Intent,Difficulty Estimate,Notes
-S,office workstation manufacturer,/products/office-workstation.html,B2B manufacturer,KD 30–45,First priority product page
-S,office workstation supplier,/products/office-workstation.html,B2B supplier,KD 25–40,Good new-site opportunity
-S,modular office workstation manufacturer,/products/modular-office-workstation.html,B2B project purchase,KD 30–45,More specific than office desk
-S,reception desk manufacturer,/products/reception-desk.html,Commercial project,KD 25–40,Strong B2B intent
-S,office reception desk supplier,/products/reception-desk.html,Supplier search,KD 25–40,Good Top 15 candidate
-S,custom reception desk manufacturer,/products/reception-desk.html,Custom/OEM,KD 25–40,High conversion
-S,executive office desk manufacturer,/products/executive-office-desk.html,Manufacturer,KD 30–45,Product page
-S,office storage cabinet manufacturer,/products/office-storage-cabinet.html,Manufacturer,KD 25–40,Strong product fit
-S,office storage cabinet supplier,/products/office-storage-cabinet.html,Supplier,KD 25–40,Supplier intent
-S,filing cabinet manufacturer,/products/filing-cabinet.html,Manufacturer,KD 25–40,Specification page
-S,acoustic wall panel manufacturer,/products/acoustic-wall-panels.html,Manufacturer,KD 30–45,Office acoustic solution
-S,office acoustic panels supplier,/products/acoustic-wall-panels.html,Supplier,KD 25–40,Strong long-tail
-S,office pod manufacturer,/products/office-pods.html,Manufacturer,KD 25–45,Supply chain dependent
-S,office sofa manufacturer,/products/office-sofa.html,Manufacturer,KD 25–40,Reception/lounge use
-A,ergonomic mesh office chair manufacturer,/products/ergonomic-mesh-office-chair.html,Manufacturer,KD 35–50,Avoids office chair big term
-A,mesh office chair supplier,/products/ergonomic-mesh-office-chair.html,Supplier,KD 35–50,Product-focused
-A,office chair manufacturer,/products/office-chair.html,Manufacturer,KD 45–60,Long-term
-A,executive office chair manufacturer,/products/office-chair.html,Manufacturer,KD 40–55,Support page
-A,height adjustable desk manufacturer,/products/height-adjustable-desk.html,Manufacturer,KD 35–50,Medium priority
-A,standing desk manufacturer,/products/height-adjustable-desk.html,Manufacturer,KD 40–55,Harder but valuable
-A,office desk manufacturer,/products/office-desk.html,Manufacturer,KD 40–55,Long-term product page
-A,commercial office furniture manufacturer,/commercial-office-furniture-manufacturer.html,Hub,KD 35–50,Main hub
-A,office furniture OEM factory,/oem-manufacturing.html,OEM/B2B,KD 35–50,High conversion
-A,custom office furniture manufacturer,/oem-manufacturing.html,Custom/OEM,KD 35–50,High conversion
+S,office workstation manufacturer,/products/office-workstation,B2B manufacturer,KD 30–45,First priority product page
+S,office workstation supplier,/products/office-workstation,B2B supplier,KD 25–40,Good new-site opportunity
+S,modular office workstation manufacturer,/products/modular-office-workstation,B2B project purchase,KD 30–45,More specific than office desk
+S,reception desk manufacturer,/products/reception-desk,Commercial project,KD 25–40,Strong B2B intent
+S,office reception desk supplier,/products/reception-desk,Supplier search,KD 25–40,Good Top 15 candidate
+S,custom reception desk manufacturer,/products/reception-desk,Custom/OEM,KD 25–40,High conversion
+S,executive office desk manufacturer,/products/executive-office-desk,Manufacturer,KD 30–45,Product page
+S,office storage cabinet manufacturer,/products/office-storage-cabinet,Manufacturer,KD 25–40,Strong product fit
+S,office storage cabinet supplier,/products/office-storage-cabinet,Supplier,KD 25–40,Supplier intent
+S,filing cabinet manufacturer,/products/filing-cabinet,Manufacturer,KD 25–40,Specification page
+S,acoustic wall panel manufacturer,/products/acoustic-wall-panels,Manufacturer,KD 30–45,Office acoustic solution
+S,office acoustic panels supplier,/products/acoustic-wall-panels,Supplier,KD 25–40,Strong long-tail
+S,office pod manufacturer,/products/office-pods,Manufacturer,KD 25–45,Supply chain dependent
+S,office sofa manufacturer,/products/office-sofa,Manufacturer,KD 25–40,Reception/lounge use
+A,ergonomic mesh office chair manufacturer,/products/ergonomic-mesh-office-chair,Manufacturer,KD 35–50,Avoids office chair big term
+A,mesh office chair supplier,/products/ergonomic-mesh-office-chair,Supplier,KD 35–50,Product-focused
+A,office chair manufacturer,/products/office-chair,Manufacturer,KD 45–60,Long-term
+A,executive office chair manufacturer,/products/office-chair,Manufacturer,KD 40–55,Support page
+A,height adjustable desk manufacturer,/products/height-adjustable-desk,Manufacturer,KD 35–50,Medium priority
+A,standing desk manufacturer,/products/height-adjustable-desk,Manufacturer,KD 40–55,Harder but valuable
+A,office desk manufacturer,/products/office-desk,Manufacturer,KD 40–55,Long-term product page
+A,commercial office furniture manufacturer,/commercial-office-furniture-manufacturer,Hub,KD 35–50,Main hub
+A,office furniture OEM factory,/oem-manufacturing,OEM/B2B,KD 35–50,High conversion
+A,custom office furniture manufacturer,/oem-manufacturing,Custom/OEM,KD 35–50,High conversion
+
+A,leather office chair manufacturer,/products/leather-office-chair,Manufacturer,KD 35–50,Executive and upholstered office seating
+A,executive leather office chair supplier,/products/leather-office-chair,Supplier,KD 35–50,Commercial project and bulk order intent
