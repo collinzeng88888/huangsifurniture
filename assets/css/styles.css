@@ -514,7 +514,7 @@
   text-transform:uppercase;
 }
 .cover-hero__eyebrow:before,.cover-hero__eyebrow:after{content:"";width:34px;height:1px;background:currentColor;opacity:.52}
-.cover-hero h1{
+.cover-hero h1,.cover-hero h2{
   margin:0;
   color:#172329;
   font-size:clamp(48px,6vw,92px);
@@ -523,7 +523,7 @@
   font-weight:820;
   text-wrap:balance;
 }
-.cover-hero h1 em{font-style:normal;font-weight:820;color:#172329}
+.cover-hero h1 em,.cover-hero h2 em{font-style:normal;font-weight:820;color:#172329}
 .cover-hero__copy p{
   max-width:690px;
   margin:24px 0 0;
@@ -829,4 +829,16 @@
 @media (max-width: 900px){
   .home-products .home-card-content{left:16px;bottom:14px;max-width:calc(100% - 74px)}
   .home-products .home-card-content strong,.home-products .home-product-large .home-card-content strong,.home-products .home-product-tall .home-card-content strong{font-size:16px}
+}
+
+/* RFQ form usability */
+.quote-form button{border:0;cursor:pointer}
+.form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}
+.form-consent{display:flex;align-items:flex-start;gap:10px;margin:4px 0 18px}
+.form-consent input{width:auto;margin:3px 0 0}
+.form-consent span{font-weight:500;line-height:1.5}
+.form-note,.form-status{font-size:13px;color:var(--muted);margin:12px 0 0}
+.form-status{color:#23506f;font-weight:700}
+@media(max-width:700px){
+  .form-grid{grid-template-columns:1fr}
 }

@@ -73,6 +73,38 @@ document.addEventListener('DOMContentLoaded', function(){
     });
   });
 
+  document.querySelectorAll('[data-rfq-form]').forEach(form=>{
+    form.addEventListener('submit', event=>{
+      event.preventDefault();
+      if(!form.reportValidity()) return;
+
+      const values = Object.fromEntries(new FormData(form).entries());
+      const subjectParts = ['Website RFQ'];
+      if(values.product) subjectParts.push(values.product);
+      if(values.company || values.name) subjectParts.push(values.company || values.name);
+
+      const labels = {
+        name: 'Name',
+        company: 'Company',
+        email: 'Business email',
+        country: 'Country / region',
+        product: 'Product category',
+        quantity: 'Estimated quantity',
+        destination: 'Destination',
+        schedule: 'Target schedule',
+        message: 'Project details'
+      };
+      const body = Object.entries(labels)
+        .filter(([key])=> values[key])
+        .map(([key,label])=> `${label}: ${values[key]}`)
+        .join('\n\n');
+      const status = form.querySelector('[data-rfq-status]');
+      if(status) status.textContent = 'Opening your email application with the RFQ details prepared…';
+
+      window.location.href = `mailto:huangsifurniture@gmail.com?subject=${encodeURIComponent(subjectParts.join(' - '))}&body=${encodeURIComponent(body)}`;
+    });
+  });
+
   const heroSlider = document.querySelector('.cover-hero-slider');
   if(heroSlider){
     const slides = Array.from(heroSlider.querySelectorAll('.cover-hero-slide'));
