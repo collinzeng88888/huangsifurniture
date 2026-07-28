@@ -202,7 +202,7 @@
 .home-catalog-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
 .home-catalog-card{display:block;background:#fff;color:var(--home-navy);overflow:hidden;transition:transform .26s ease,box-shadow .26s ease}
 .home-catalog-card:hover{transform:translateY(-5px);box-shadow:0 20px 40px rgba(0,0,0,.18)}
-.home-catalog-card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#edf1f3}
+.home-catalog-card img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:contain;object-position:center;background:#edf1f3}
 .home-catalog-group-chairs .home-catalog-card img{object-fit:contain;background:#efefef}
 .home-catalog-card div{padding:14px 14px 16px}
 .home-catalog-card small{display:block;font-size:10px;font-weight:900;letter-spacing:.14em;color:#8a98a2;text-transform:uppercase;margin-bottom:7px}
@@ -213,7 +213,7 @@
 .home-sectors-heading h2{font-size:clamp(42px,5.2vw,74px);line-height:1.06;letter-spacing:-.05em;color:#000;max-width:980px;margin:10px 0 52px}
 .home-sectors-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
 .home-sector-card{display:block;color:#000}
-.home-sector-card img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:10px;background:#e7e1d8;transition:transform .35s ease,box-shadow .35s ease}
+.home-sector-card img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center;border-radius:10px;background:#e7e1d8;transition:transform .35s ease,box-shadow .35s ease}
 .home-sector-card:hover img{transform:translateY(-4px);box-shadow:0 18px 40px rgba(14,31,42,.12)}
 .home-sector-title{display:block;font-size:19px;line-height:1.25;letter-spacing:-.02em;margin-top:14px}
 
