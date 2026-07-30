@@ -245,7 +245,7 @@
 .lounge-finish-grid img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: min(32vw, 380px);
   object-fit: cover;
   object-position: center 68%;
 }
@@ -388,6 +388,10 @@
   .lounge-feature-grid,
   .lounge-finish-grid {
     grid-template-columns: 1fr;
+  }
+
+  .lounge-finish-grid img {
+    height: min(88vw, 420px);
   }
 
   .lounge-feature-grid article {
