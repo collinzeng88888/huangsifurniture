@@ -245,8 +245,9 @@
 .lounge-finish-grid img {
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: contain;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center 68%;
 }
 
 .lounge-finish-grid figcaption {
@@ -402,4 +403,3 @@
     display: block;
   }
 }
-
