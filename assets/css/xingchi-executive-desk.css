@@ -1,0 +1,200 @@
+.xingchi-detail-page {
+  --exec-ink: #12181c;
+  --exec-charcoal: #10171c;
+  --exec-warm: #6f9fb4;
+  --exec-cream: #eef1f1;
+  --exec-paper: #f8f8f6;
+  --exec-line: rgba(18, 24, 28, .14);
+  background: var(--exec-paper);
+}
+
+.xingchi-detail-page .exec-intro {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 85% 10%, rgba(111, 159, 180, .18), transparent 34%),
+    linear-gradient(135deg, #11191e 0%, #1a2024 58%, #0d1317 100%);
+}
+
+.xingchi-detail-page .exec-intro::after {
+  position: absolute;
+  right: -10vw;
+  bottom: -30vw;
+  width: 56vw;
+  height: 56vw;
+  border: 1px solid rgba(255, 255, 255, .07);
+  border-radius: 50%;
+  content: "";
+}
+
+.xingchi-detail-page .exec-intro .exec-container {
+  position: relative;
+  z-index: 1;
+}
+
+.xingchi-detail-page .exec-kicker,
+.xingchi-detail-page .exec-overline {
+  color: #78b6ce;
+}
+
+.xingchi-detail-page .exec-button {
+  border-color: #b7d8e5;
+  background: #b7d8e5;
+  color: #10171c;
+}
+
+.xingchi-detail-page .exec-hero-media {
+  background: #161717;
+}
+
+.xingchi-detail-page .exec-anchor-nav {
+  background: rgba(248, 248, 246, .94);
+}
+
+.xingchi-intro-note {
+  max-width: 760px;
+  margin-top: 22px;
+  color: rgba(255, 255, 255, .46);
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.xingchi-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 52px;
+  background: var(--exec-line);
+  border: 1px solid var(--exec-line);
+}
+
+.xingchi-feature-card {
+  min-height: 260px;
+  padding: 38px;
+  background: var(--exec-paper);
+}
+
+.xingchi-feature-card span {
+  display: block;
+  margin-bottom: 38px;
+  color: var(--exec-warm);
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: .14em;
+}
+
+.xingchi-feature-card h3 {
+  margin: 0 0 14px;
+  font-size: 26px;
+  line-height: 1.12;
+}
+
+.xingchi-feature-card p {
+  margin: 0;
+  color: #667078;
+  line-height: 1.72;
+}
+
+.xingchi-detail-page .exec-feature-art {
+  border: 1px solid rgba(18, 24, 28, .09);
+  box-shadow: 0 30px 80px rgba(16, 23, 28, .08);
+}
+
+.xingchi-scene {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  background: #131313;
+}
+
+.xingchi-scene img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.xingchi-scene-copy {
+  position: absolute;
+  z-index: 2;
+  right: clamp(24px, 7vw, 110px);
+  bottom: clamp(24px, 6vw, 90px);
+  max-width: 480px;
+  padding: 30px 34px;
+  background: rgba(12, 17, 20, .84);
+  color: #fff;
+  backdrop-filter: blur(14px);
+}
+
+.xingchi-scene-copy span {
+  display: block;
+  margin-bottom: 10px;
+  color: #9ac6d8;
+  font-size: 11px;
+  font-weight: 850;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.xingchi-scene-copy h2 {
+  margin: 0 0 14px;
+  color: #fff;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.04;
+  letter-spacing: -.04em;
+}
+
+.xingchi-scene-copy p {
+  margin: 0;
+  color: rgba(255, 255, 255, .68);
+  line-height: 1.7;
+}
+
+.xingchi-collection {
+  background: #f1f0ed;
+}
+
+.xingchi-detail-page .exec-spec-note {
+  background: #e3ecef;
+}
+
+.xingchi-detail-page .exec-rfq {
+  background:
+    radial-gradient(circle at 10% 95%, rgba(111, 159, 180, .18), transparent 34%),
+    #10171c;
+}
+
+.xingchi-detail-page .exec-rfq .quote-form {
+  background: #192127;
+}
+
+@media (max-width: 980px) {
+  .xingchi-feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .xingchi-feature-card {
+    min-height: 0;
+  }
+}
+
+@media (max-width: 680px) {
+  .xingchi-feature-grid {
+    margin-top: 34px;
+  }
+
+  .xingchi-feature-card {
+    padding: 28px 24px;
+  }
+
+  .xingchi-feature-card span {
+    margin-bottom: 22px;
+  }
+
+  .xingchi-scene-copy {
+    position: static;
+    max-width: none;
+    padding: 28px 24px;
+    background: #12191e;
+  }
+}
