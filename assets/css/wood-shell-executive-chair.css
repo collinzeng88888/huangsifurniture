@@ -187,6 +187,7 @@
 .chair-color-grid img {
   display: block;
   width: 100%;
+  height: auto;
   aspect-ratio: 1.35 / 1;
   object-fit: contain;
   object-position: center;
