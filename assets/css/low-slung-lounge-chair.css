@@ -245,9 +245,8 @@
 .lounge-finish-grid img {
   display: block;
   width: 100%;
-  height: min(32vw, 380px);
-  object-fit: cover;
-  object-position: center 68%;
+  height: auto;
+  object-fit: contain;
 }
 
 .lounge-finish-grid figcaption {
@@ -388,10 +387,6 @@
   .lounge-feature-grid,
   .lounge-finish-grid {
     grid-template-columns: 1fr;
-  }
-
-  .lounge-finish-grid img {
-    height: min(88vw, 420px);
   }
 
   .lounge-feature-grid article {
