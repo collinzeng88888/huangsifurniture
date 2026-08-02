@@ -839,6 +839,7 @@
   }
   .home-mega-menu{
     padding:30px 40px 28px;
+    white-space:normal;
   }
   .home-mega-menu__grid{
     gap:30px;
