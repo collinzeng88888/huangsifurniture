@@ -1,0 +1,32 @@
+.a007-page .m15-thumbnails {
+  grid-template-columns: repeat(15, minmax(72px, 1fr));
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-color: #aeb7bc #edf0f1;
+  scrollbar-width: thin;
+}
+
+.a007-page .m15-product-copy h1 {
+  font-size: clamp(36px, 3vw, 52px);
+}
+
+.a007-configurations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 28px;
+}
+
+.a007-configurations span {
+  padding: 8px 11px;
+  border: 1px solid #cfd5d8;
+  border-radius: 999px;
+  color: #536068;
+  font-size: 11px;
+}
+
+@media (max-width: 520px) {
+  .a007-page .m15-thumbnails {
+    grid-template-columns: repeat(15, 72px);
+  }
+}
