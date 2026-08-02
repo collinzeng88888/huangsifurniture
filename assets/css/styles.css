@@ -824,6 +824,72 @@
 }
 
 
+/* Homepage navigation: larger type and a more balanced leftward alignment */
+@media(min-width:901px){
+  .home-page .home-header .nav-links{
+    justify-content:flex-start;
+    padding-left:clamp(82px,8.5vw,150px);
+    gap:36px;
+  }
+  .home-page .home-header .nav-links>a:not(.btn),
+  .home-page .home-header .nav-top-link{
+    font-size:17px;
+    font-weight:680;
+    letter-spacing:-.015em;
+  }
+  .home-mega-menu{
+    padding:30px 40px 28px;
+  }
+  .home-mega-menu__grid{
+    gap:30px;
+  }
+  .home-mega-menu__cta{
+    font-size:13px;
+  }
+  .home-mega-menu__col h4{
+    margin-bottom:14px;
+    font-size:18px;
+    line-height:1.28;
+  }
+  .home-mega-menu__col a{
+    margin-bottom:9px;
+    font-size:15px;
+    line-height:1.5;
+  }
+}
+@media(min-width:901px) and (max-width:1400px){
+  .home-page .home-header .nav-links{
+    padding-left:clamp(36px,5vw,70px);
+    gap:25px;
+  }
+  .home-page .home-header .nav-links>a:not(.btn),
+  .home-page .home-header .nav-top-link{
+    font-size:15px;
+  }
+  .home-mega-menu__grid{gap:22px}
+  .home-mega-menu__col h4{font-size:17px}
+  .home-mega-menu__col a{font-size:14px}
+}
+@media(min-width:901px) and (max-width:1150px){
+  .home-page .home-header .nav-links{
+    padding-left:20px;
+    gap:14px;
+  }
+  .home-page .home-header .nav-links>a:not(.btn),
+  .home-page .home-header .nav-top-link{
+    font-size:13.5px;
+  }
+}
+@media(max-width:900px){
+  .home-page .home-header .nav-links>a:not(.btn),
+  .home-page .home-header .nav-top-link{
+    font-size:15px;
+  }
+  .home-mega-menu__col h4{font-size:17px}
+  .home-mega-menu__col a{font-size:14px;line-height:1.5}
+}
+
+
 /* Homepage product-card text cleanup: keep only the main title and place it at bottom-left */
 .home-products .home-card-content{left:18px;right:auto;bottom:16px;width:auto;max-width:calc(100% - 84px);padding:0;background:transparent;border:0;backdrop-filter:none;-webkit-backdrop-filter:none}
 .home-products .home-card-content small,.home-products .home-card-content em{display:none!important}
