@@ -1,10 +1,36 @@
-
 document.addEventListener('DOMContentLoaded', function(){
   const btn = document.querySelector('.mobile-toggle');
   const nav = document.querySelector('.nav-links');
   const header = document.querySelector('.home-header');
   const megaItem = document.querySelector('.nav-item-mega');
   const megaLink = megaItem ? megaItem.querySelector('.nav-top-link') : null;
+
+  const a008Card = document.querySelector('.mesh-chair-card[data-name="A008"]');
+  if(a008Card){
+    const a008Url = '/products/a008-multi-support-mesh-office-chair';
+    a008Card.classList.add('mesh-chair-card--link');
+    a008Card.setAttribute('role', 'link');
+    a008Card.setAttribute('tabindex', '0');
+    a008Card.setAttribute('aria-label', 'View A008 Multi-Support Ergonomic Mesh Office Chair details');
+    a008Card.style.cursor = 'pointer';
+
+    const a008Link = a008Card.querySelector('.mesh-chair-card__link');
+    if(a008Link){
+      a008Link.setAttribute('href', a008Url);
+      a008Link.innerHTML = 'View product <span>→</span>';
+    }
+
+    a008Card.addEventListener('click', event=>{
+      if(event.target.closest('a')) return;
+      window.location.href = a008Url;
+    });
+    a008Card.addEventListener('keydown', event=>{
+      if(event.key === 'Enter' || event.key === ' '){
+        event.preventDefault();
+        window.location.href = a008Url;
+      }
+    });
+  }
 
   if(btn && nav){
     btn.addEventListener('click', ()=>{
