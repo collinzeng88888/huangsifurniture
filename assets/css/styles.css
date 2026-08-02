@@ -827,8 +827,8 @@
 /* Homepage navigation: larger type and a more balanced leftward alignment */
 @media(min-width:901px){
   .home-page .home-header .nav-links{
-    justify-content:flex-start;
-    padding-left:clamp(82px,8.5vw,150px);
+    justify-content:center;
+    padding-left:clamp(30px,4vw,60px);
     gap:36px;
   }
   .home-page .home-header .nav-links>a:not(.btn),
@@ -859,7 +859,7 @@
 }
 @media(min-width:901px) and (max-width:1400px){
   .home-page .home-header .nav-links{
-    padding-left:clamp(36px,5vw,70px);
+    padding-left:30px;
     gap:25px;
   }
   .home-page .home-header .nav-links>a:not(.btn),
@@ -872,7 +872,7 @@
 }
 @media(min-width:901px) and (max-width:1150px){
   .home-page .home-header .nav-links{
-    padding-left:20px;
+    padding-left:10px;
     gap:14px;
   }
   .home-page .home-header .nav-links>a:not(.btn),
