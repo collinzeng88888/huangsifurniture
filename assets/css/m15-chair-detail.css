@@ -38,7 +38,7 @@
 
 .m15-product-grid {
   display: grid;
-  grid-template-columns: minmax(280px, .48fr) minmax(0, 1.52fr);
+  grid-template-columns: minmax(340px, .64fr) minmax(0, 1.36fr);
   min-height: 650px;
   border: 1px solid var(--m15-line);
   background: #fff;
@@ -65,7 +65,8 @@
 .m15-product-copy h1 {
   max-width: 460px;
   margin: 0;
-  font-size: clamp(38px, 4vw, 62px);
+  overflow-wrap: anywhere;
+  font-size: clamp(38px, 3.2vw, 54px);
   font-weight: 590;
   line-height: .98;
   letter-spacing: -.05em;
@@ -407,7 +408,7 @@
 .m15-cta .m15-button { margin-top: 26px; }
 
 @media (max-width: 1100px) {
-  .m15-product-grid { grid-template-columns: minmax(250px, .6fr) minmax(0, 1.4fr); }
+  .m15-product-grid { grid-template-columns: minmax(320px, .8fr) minmax(0, 1.2fr); }
   .m15-product-copy { padding: 34px; }
   .m15-product-copy h1 { font-size: clamp(34px, 4.4vw, 52px); }
   .m15-content,
