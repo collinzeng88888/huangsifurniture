@@ -1,0 +1,29 @@
+.m81a-page .m15-thumbnails {
+  grid-template-columns: repeat(8, minmax(78px, 1fr));
+  overflow-x: auto;
+}
+
+.m81a-page .m15-product-copy h1 {
+  font-size: clamp(34px, 2.8vw, 50px);
+}
+
+.m81a-configurations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 28px;
+}
+
+.m81a-configurations span {
+  padding: 8px 11px;
+  border: 1px solid #cfd5d8;
+  border-radius: 999px;
+  color: #536068;
+  font-size: 11px;
+}
+
+@media (max-width: 520px) {
+  .m81a-page .m15-thumbnails {
+    grid-template-columns: repeat(8, 72px);
+  }
+}
