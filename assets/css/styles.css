@@ -897,6 +897,7 @@
 .mesh-collection-toolbar select{min-width:154px;padding:10px 36px 10px 12px;border:1px solid #d7d9d8;border-radius:2px;background:#fff;color:#20262a;font:inherit;cursor:pointer}
 .mesh-chair-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
 .mesh-chair-card{display:flex;min-width:0;flex-direction:column;background:#fff;border:1px solid #efefed;transition:transform .2s ease,box-shadow .2s ease}
+.mesh-chair-card--link{color:inherit;text-decoration:none}
 .mesh-chair-card:hover{transform:translateY(-3px);box-shadow:0 14px 34px rgba(21,28,31,.08)}
 .mesh-chair-card__media{position:relative;aspect-ratio:5/5.6;overflow:hidden;background:#fff}
 .mesh-chair-card__media img{width:100%;height:100%;object-fit:contain;object-position:center center;transition:transform .3s ease}
