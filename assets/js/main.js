@@ -53,21 +53,41 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
   if(megaItem && megaLink){
+    const megaMenu = megaItem.querySelector('.home-mega-menu');
+    let megaCloseTimer = null;
+    const cancelMegaClose = ()=>{
+      if(megaCloseTimer){
+        window.clearTimeout(megaCloseTimer);
+        megaCloseTimer = null;
+      }
+    };
     const closeMega = ()=>{
+      cancelMegaClose();
       megaItem.classList.remove('is-open');
       megaLink.setAttribute('aria-expanded', 'false');
     };
     const openMega = ()=>{
+      cancelMegaClose();
       megaItem.classList.add('is-open');
       megaLink.setAttribute('aria-expanded', 'true');
+    };
+    const scheduleMegaClose = ()=>{
+      cancelMegaClose();
+      megaCloseTimer = window.setTimeout(closeMega, 450);
     };
 
     megaItem.addEventListener('mouseenter', ()=>{
       if(window.innerWidth > 900) openMega();
     });
     megaItem.addEventListener('mouseleave', ()=>{
-      if(window.innerWidth > 900) closeMega();
+      if(window.innerWidth > 900) scheduleMegaClose();
     });
+    if(megaMenu){
+      megaMenu.addEventListener('mouseenter', openMega);
+      megaMenu.addEventListener('mouseleave', ()=>{
+        if(window.innerWidth > 900) scheduleMegaClose();
+      });
+    }
 
     megaLink.addEventListener('click', (e)=>{
       if(window.innerWidth <= 900){
