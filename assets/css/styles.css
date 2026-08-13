@@ -288,8 +288,8 @@
 .home-footer-contact .home-footer-email{font-size:16px;color:#ffbf47;font-weight:800}
 .home-footer-contact .home-footer-email:hover{color:#ffd98a}
 .home-footer-phone-row{display:flex;align-items:center;gap:8px 10px;flex-wrap:wrap;margin-top:4px}
-.home-footer-contact .home-footer-phone{font-size:16px;color:#54e5ff;font-weight:800;margin-right:3px}
-.home-footer-contact .home-footer-phone:hover{color:#a8f3ff}
+.home-footer-contact .home-footer-phone{font-size:16px;color:#ffbf47;font-weight:800;margin-right:3px}
+.home-footer-contact .home-footer-phone:hover{color:#ffd98a}
 .home-footer-contact .home-contact-badge{display:inline-flex;align-items:center;gap:5px;margin:0;padding:5px 9px;border-radius:999px;color:#fff;font-size:11px;font-weight:800;line-height:1;border:1px solid rgba(255,255,255,.22)}
 .home-contact-badge--whatsapp{background:#1fae59}
 .home-contact-badge--wechat{background:#07c160}
