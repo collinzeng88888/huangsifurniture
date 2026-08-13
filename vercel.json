@@ -1,6 +1,10 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    { "source": "/products/lounge-chairs", "destination": "/products/lounge-chairs-paged.html" },
+    { "source": "/products/lounge-chairs/page-2", "destination": "/products/lounge-chairs-paged.html" }
+  ],
   "headers": [
     {
       "source": "/(.*)",
