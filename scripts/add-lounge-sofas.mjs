@@ -67,3 +67,5 @@ let sitemap = readFileSync('sitemap.xml', 'utf8');
 const sitemapPaths = ['/products/lounge-sofas', '/products/lounge-sofas/page-2', ...products.map(([, slug]) => productPath(slug))];
 const additions = sitemapPaths.filter((path) => !sitemap.includes(`<loc>https://huangsifurniture.com${path}</loc>`)).map((path) => `<url><loc>https://huangsifurniture.com${path}</loc><lastmod>2026-08-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>`).join('');
 if (additions) writeFileSync('sitemap.xml', sitemap.replace('</urlset>', `${additions}</urlset>`));
+
+await import('./add-lounge-sofa-carousels.mjs');
