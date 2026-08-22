@@ -56,3 +56,5 @@ if (additions) {
   sitemap = sitemap.replace('</urlset>', `${additions}</urlset>`);
   writeFileSync('sitemap.xml', sitemap);
 }
+
+await import('./add-hospital-infusion-carousels.mjs');
