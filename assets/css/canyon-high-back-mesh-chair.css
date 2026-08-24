@@ -37,15 +37,17 @@
 }
 
 .canyon-hero {
-  min-height: min(760px, calc(100svh - 118px));
+  min-height: min(720px, calc(100svh - 118px));
   display: grid;
-  grid-template-columns: minmax(500px, .82fr) minmax(0, 1.18fr);
+  grid-template-columns: minmax(0, .84fr) minmax(0, 1.16fr);
+  align-items: stretch;
   overflow: hidden;
   background: var(--canyon-wine);
 }
 
 .canyon-hero__copy {
-  padding: clamp(72px, 8vw, 128px) max(36px, calc((100vw - 1240px) / 2)) 84px;
+  min-width: 0;
+  padding: clamp(54px, 6vw, 88px) clamp(40px, 5vw, 78px);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,29 +60,30 @@
 }
 
 .canyon-hero .exec-overline {
-  margin-top: 50px;
+  margin-top: 0;
   color: #efb2a4;
 }
 
 .canyon-hero h1 {
-  margin: 18px 0 24px;
-  font-size: clamp(3.25rem, 5vw, 5.4rem);
-  line-height: .94;
+  max-width: 620px;
+  margin: 16px 0 24px;
+  font-size: clamp(3rem, 4.1vw, 4.7rem);
+  line-height: .98;
   letter-spacing: -.05em;
   color: #fff;
 }
 
 .canyon-hero h1 span {
-  display: inline-block;
-  white-space: nowrap;
+  display: block;
+  white-space: normal;
 }
 
 .canyon-hero__copy > p {
-  max-width: 610px;
+  max-width: 520px;
   margin: 0;
   color: rgba(255, 255, 255, .74);
-  font-size: clamp(1.03rem, 1.5vw, 1.25rem);
-  line-height: 1.7;
+  font-size: clamp(1rem, 1.3vw, 1.16rem);
+  line-height: 1.65;
 }
 
 .canyon-hero__actions {
@@ -113,7 +116,7 @@
 
 .canyon-hero__visual {
   position: relative;
-  min-height: 650px;
+  min-height: 0;
   display: grid;
   place-items: center;
   overflow: hidden;
@@ -579,12 +582,20 @@
 
 @media (max-width: 1050px) {
   .canyon-hero {
-    grid-template-columns: minmax(410px, .9fr) minmax(0, 1.1fr);
+    grid-template-columns: 1fr;
+    min-height: 0;
   }
 
   .canyon-hero__copy {
-    padding-right: 34px;
-    padding-left: 34px;
+    padding: 64px clamp(28px, 7vw, 72px);
+  }
+
+  .canyon-hero__copy > p {
+    max-width: 680px;
+  }
+
+  .canyon-hero__visual {
+    aspect-ratio: 1100 / 779;
   }
 
   .canyon-intro__grid,
@@ -623,17 +634,13 @@
 }
 
 @media (max-width: 760px) {
-  .canyon-hero {
-    grid-template-columns: 1fr;
-  }
-
   .canyon-hero__copy {
-    min-height: 650px;
-    padding-top: 78px;
+    min-height: 0;
+    padding: 52px 24px 58px;
   }
 
   .canyon-hero h1 {
-    font-size: clamp(3rem, 13vw, 4.7rem);
+    font-size: clamp(2.7rem, 12vw, 4.2rem);
   }
 
   .canyon-hero h1 span {
@@ -641,7 +648,6 @@
   }
 
   .canyon-hero__visual {
-    min-height: 0;
     aspect-ratio: 1100 / 779;
   }
 
