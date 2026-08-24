@@ -5,6 +5,54 @@ document.addEventListener('DOMContentLoaded', function(){
   const megaItem = document.querySelector('.nav-item-mega');
   const megaLink = megaItem ? megaItem.querySelector('.nav-top-link') : null;
 
+  // Keep the Products mega menu identical to the homepage on every page.
+  const megaGrid = megaItem ? megaItem.querySelector('.home-mega-menu__grid') : null;
+  if(megaGrid){
+    megaGrid.innerHTML = `
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-seating.webp" width="520" height="300" alt="Seating collection scene" loading="lazy">
+        <h4>Seating</h4>
+        <a href="/products/mesh-office-chairs">Mesh Office Chairs</a>
+        <a href="/products/leather-office-chair">Leather Office Chairs</a>
+        <a href="/products/training-chairs">Training Chairs</a>
+        <a href="/products/lounge-chairs">Lounge Chairs</a>
+        <a href="/products/lounge-sofas">Lounge Sofas</a>
+        <a href="/products/medical-companion-sofas">Medical Companion Sofa</a>
+        <a href="/products/waiting-sofa-chairs">Waiting Sofa Chairs</a>
+        <a href="/products/hospital-infusion-chairs">Hospital Infusion Chairs</a>
+      </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-desks-workstations.webp" width="520" height="300" alt="Desks and workstations scene" loading="lazy">
+        <h4>Desks + Workstations</h4>
+        <a href="/products/height-adjustable-desk">Height-Adjustable Desks</a>
+        <a href="/products/staff-desk">Staff Desk</a>
+      </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-tables.webp" width="520" height="300" alt="Tables collection scene" loading="lazy">
+        <h4>Tables</h4>
+        <a href="/products/executive-office-desk">President's Table</a>
+        <a href="/products/conference-tables">Conference Tables</a>
+      </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-panel-space.webp" width="520" height="300" alt="Panel and space division scene" loading="lazy">
+        <h4>Panel + Space Division</h4>
+        <a href="/products/acoustic-pods">Acoustic Pods</a>
+        <a href="/products/office-pods">Pods</a>
+      </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-storage.webp" width="520" height="300" alt="Storage collection scene" loading="lazy">
+        <h4>Storage</h4>
+        <a href="/products/office-storage-cabinet">Lockers</a>
+        <a href="/products/filing-cabinet">File Cabinets</a>
+        <a href="/products/office-storage-cabinet">Workstation Storage</a>
+      </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/nav-scene-accessories.webp" width="520" height="300" alt="Accessories collection scene" loading="lazy">
+        <h4>Accessories</h4>
+        <a href="/catalog">All Accessories</a>
+      </div>`;
+  }
+
   const a008Card = document.querySelector('.mesh-chair-card[data-name="A008"]');
   if(a008Card){
     const a008Url = '/products/a008-multi-support-mesh-office-chair';
