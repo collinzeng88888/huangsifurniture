@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h4>Seating</h4>
         <a href="/products/mesh-office-chairs">Mesh Office Chairs</a>
         <a href="/products/leather-office-chair">Leather Office Chairs</a>
+        <a href="/products/office-sofa">Office Sofas</a>
         <a href="/products/training-chairs">Training Chairs</a>
         <a href="/products/lounge-chairs">Lounge Chairs</a>
         <a href="/products/lounge-sofas">Lounge Sofas</a>
