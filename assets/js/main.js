@@ -38,7 +38,6 @@ document.addEventListener('DOMContentLoaded', function(){
         <img src="/assets/images/nav-scene-panel-space.webp" width="520" height="300" alt="Panel and space division scene" loading="lazy">
         <h4>Panel + Space Division</h4>
         <a href="/products/acoustic-pods">Acoustic Pods</a>
-        <a href="/products/office-pods">Pods</a>
       </div>
       <div class="home-mega-menu__col">
         <img src="/assets/images/nav-scene-storage.webp" width="520" height="300" alt="Storage collection scene" loading="lazy">
