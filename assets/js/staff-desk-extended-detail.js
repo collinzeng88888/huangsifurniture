@@ -698,7 +698,239 @@
         "Multifunction power socket and soft-close quiet drawer slides"
       ]
     ]
-  }
+  },
+  "DO-DGL-PF6": {
+  "slug": "do-dgl-pf6-office-workstation",
+  "count": 1,
+  "listingPage": 3,
+  "intro": "A multi-user panel workstation system with privacy screens, shared storage and coordinated team seating.",
+  "chips": [
+    "Multi-user layout",
+    "Privacy panels",
+    "Integrated storage"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-DGL-PF6"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-DGL-PF46-T": {
+  "slug": "do-dgl-pf46-t-office-workstation",
+  "count": 1,
+  "listingPage": 3,
+  "intro": "A multi-user bench workstation with full-height blue privacy panels and individual drawer storage.",
+  "chips": [
+    "Panel system",
+    "Team workstation",
+    "Drawer storage"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-DGL-PF46-T"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-DRM-NST01": {
+  "slug": "do-drm-nst01-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "A two-person acoustic workstation booth with upholstered privacy panels and a shared central desk.",
+  "chips": [
+    "Two-person booth",
+    "Acoustic panels",
+    "Privacy workspace"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-DRM-NST01"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-DRM-NST16": {
+  "slug": "do-drm-nst16-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "A compact individual focus booth with upholstered acoustic panels, an integrated desk and bench seating.",
+  "chips": [
+    "Focus booth",
+    "Acoustic panels",
+    "Integrated desk"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-DRM-NST16"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-DZJ-01SJ12": {
+  "slug": "do-dzj-01sj12-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "A compact privacy workstation with integrated storage, layered work surfaces and overhead task lighting.",
+  "chips": [
+    "Privacy workstation",
+    "Integrated lighting",
+    "Compact storage"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-DZJ-01SJ12"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-JM-D0312": {
+  "slug": "do-jm-d0312-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "A single-user office desk with a fabric privacy screen, angular support leg and integrated drawer pedestal.",
+  "chips": [
+    "Single-user desk",
+    "Fabric screen",
+    "Drawer pedestal"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-JM-D0312"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-JM-D0724": {
+  "slug": "do-jm-d0724-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "A four-person bench workstation with fabric privacy screens, slim metal legs and central cable management.",
+  "chips": [
+    "Four-person bench",
+    "Fabric screens",
+    "Cable management"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-JM-D0724"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+},
+  "DO-NV-POD01": {
+  "slug": "do-nv-pod01-office-workstation",
+  "count": 1,
+  "listingPage": 4,
+  "intro": "An individual focus pod with a wraparound privacy panel, compact work surface and slim metal frame.",
+  "chips": [
+    "Individual pod",
+    "Privacy panel",
+    "Compact workstation"
+  ],
+  "specs": [
+    [
+      "Model",
+      "DO-NV-POD01"
+    ],
+    [
+      "Category",
+      "Commercial office workstation"
+    ],
+    [
+      "Available configuration",
+      "Dimensions, finishes, privacy panels, storage and cable management"
+    ],
+    [
+      "Commercial supply",
+      "Bulk project purchasing and OEM / ODM configuration"
+    ]
+  ]
+}
 };
 
   const model = document.body.dataset.product;
