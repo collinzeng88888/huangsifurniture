@@ -110,7 +110,7 @@
   const model = document.body.dataset.product;
   const product = products[model];
   const root = document.querySelector("[data-conference-detail-root]");
-  if (!product || !root) return;
+  if (!product || !root || root.dataset.prerendered === "true") return;
 
   const listingPath = "/products/conference-tables/page-2";
   document.body.style.setProperty("--gallery-columns", String(product.count));
