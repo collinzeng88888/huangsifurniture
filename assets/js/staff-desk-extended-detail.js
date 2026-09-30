@@ -936,7 +936,7 @@
   const model = document.body.dataset.product;
   const product = products[model];
   const root = document.querySelector("[data-staff-detail-root]");
-  if (!product || !root) return;
+  if (!product || !root || root.dataset.prerendered === "true") return;
 
   const listingPath = "/products/staff-desk/page-" + product.listingPage;
   document.body.style.setProperty("--gallery-columns", String(product.count));

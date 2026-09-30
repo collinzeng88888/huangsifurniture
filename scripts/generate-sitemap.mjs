@@ -4,6 +4,13 @@ import { execFileSync } from "node:child_process";
 
 const root = path.resolve(import.meta.dirname, "..");
 const today = new Date().toISOString().slice(0, 10);
+// Preserve recorded dates when a shallow checkout has no per-file history.
+let previousSitemap = "";
+try {
+  previousSitemap = execFileSync("git", ["show", "HEAD:sitemap.xml"], { cwd: root, encoding: "utf8" });
+} catch {}
+const previousDates = new Map([...previousSitemap.matchAll(/<url>\s*<loc>(.*?)<\/loc>\s*<lastmod>(.*?)<\/lastmod>/g)]
+  .map(match => [match[1], match[2]]));
 
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -13,13 +20,14 @@ function walk(directory) {
   });
 }
 
-function lastModified(file) {
+function lastModified(file, canonical) {
   try {
     const changed = execFileSync("git", ["status", "--porcelain", "--", file], {
       cwd: root,
       encoding: "utf8",
     }).trim();
     if (changed) return today;
+    if (previousDates.has(canonical)) return previousDates.get(canonical);
     return execFileSync("git", ["log", "-1", "--format=%cs", "--", file], {
       cwd: root,
       encoding: "utf8",
@@ -46,7 +54,7 @@ for (const file of walk(root).filter((item) => item.endsWith(".html"))) {
   const canonical = html.match(/<link\b(?=[^>]*\brel=["']canonical["'])(?=[^>]*\bhref=["']([^"']+)["'])[^>]*>/i)?.[1];
   if (!canonical?.startsWith("https://huangsifurniture.com/")) continue;
   if (!pages.has(canonical) || relative === `${new URL(canonical).pathname.replace(/^\//, "") || "index"}.html`) {
-    pages.set(canonical, { file: relative, lastmod: lastModified(relative) });
+    pages.set(canonical, { file: relative, lastmod: lastModified(relative, canonical) });
   }
 }
 
