@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-04",
+  "source": "seo/b2b-keyword-coverage-20261004.csv",
+  "new_guides": [
+    {
+      "page": "/blog/custom-adjustable-desk-manufacturer-buying-guide",
+      "intent": "Custom Adjustable Desk Manufacturer: A B2B Buying Guide"
+    },
+    {
+      "page": "/blog/commercial-lounge-chair-sofa-sourcing-guide",
+      "intent": "Commercial Lounge Chair & Sofa Supplier: A Buying Guide"
+    }
+  ],
+  "linked_from": [
+    "products/height-adjustable-desk.html",
+    "products/executive-office-desk.html",
+    "products/staff-desk.html",
+    "oem-manufacturing.html",
+    "blog/height-adjustable-desk-vs-traditional-office-desk.html",
+    "products/lounge-chairs.html",
+    "products/office-sofa.html",
+    "products/lounge-sofas.html"
+  ],
+  "policy": "Collection pages retain primary product intent. Guides answer procurement questions; unconfirmed specifications remain subject to model review."
+}
