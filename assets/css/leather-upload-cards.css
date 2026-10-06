@@ -1,0 +1,4 @@
+/* Scoped to newly uploaded chair cards and their detail images. */
+.leather-upload-window{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);overflow:hidden}
+.leather-upload-window img{position:absolute!important;max-width:none!important;height:auto!important;object-fit:initial!important;transform:none!important;aspect-ratio:auto!important}
+.leather-upload-detail .leather-upload-image-frame{position:relative;aspect-ratio:14/9;background:#fff;overflow:hidden}
