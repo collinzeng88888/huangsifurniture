@@ -1,0 +1,9 @@
+/* Used only by the uploaded electric-office-chair detail pages. */
+.electric-gallery-page .m15-slide{position:relative;aspect-ratio:14/9}
+.electric-gallery-page .electric-view{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:#fff}
+.electric-gallery-page .electric-view-window{position:relative;overflow:hidden;flex:none}
+.electric-gallery-page .electric-view-window img{position:absolute;width:var(--source-width);max-width:none;height:auto;aspect-ratio:auto;left:var(--source-left);top:var(--source-top);object-fit:initial}
+.electric-gallery-page .m15-thumbnails button{position:relative;aspect-ratio:14/9}
+.electric-gallery-page .m15-thumbnails .electric-view{inset:5px}
+.electric-gallery-page .electric-features{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0}
+.electric-gallery-page .electric-features span{border:1px solid #dfe3e5;padding:7px 10px;font-size:12px}
