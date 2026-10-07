@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href="/products/acoustic-pods">Acoustic Pods</a>
       </div>
       <div class="home-mega-menu__col">
-        <img src="/assets/images/commercial-storage-white.webp" width="900" height="675" alt="Wooden office filing cabinets" loading="lazy">
+        <img src="/assets/images/nav-filing-cabinets-scene.webp" width="1040" height="585" alt="Wooden office filing cabinets in a warm contemporary office interior" loading="lazy">
         <h4><a href="/products/filing-cabinet" style="display:inline;color:inherit;font-size:inherit;line-height:inherit;margin:0;font-weight:inherit">Filing Cabinets</a></h4>
       </div>
       `;
