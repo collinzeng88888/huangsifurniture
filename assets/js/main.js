@@ -40,6 +40,10 @@ document.addEventListener('DOMContentLoaded', function(){
         <h4>Panel + Space Division</h4>
         <a href="/products/acoustic-pods">Acoustic Pods</a>
       </div>
+      <div class="home-mega-menu__col">
+        <img src="/assets/images/commercial-storage-white.webp" width="900" height="675" alt="Wooden office filing cabinets" loading="lazy">
+        <h4><a href="/products/filing-cabinet" style="display:inline;color:inherit;font-size:inherit;line-height:inherit;margin:0;font-weight:inherit">Filing Cabinets</a></h4>
+      </div>
       `;
   }
 
