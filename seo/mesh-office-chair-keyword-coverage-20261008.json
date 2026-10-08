@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-131431(2).csv",
+  "metrics_note": "Supplied export; location and reporting period unavailable. Not live rankings or HUANGSI traffic.",
+  "keywords": [
+    {
+      "keyword": "realspace radley mesh mid-back task office chair",
+      "source_volume": "9.9K",
+      "source_kd": "不可用",
+      "decision": "exclude: competitor brand/model intent",
+      "target": null,
+      "intent": "competitor navigational",
+      "b2b_priority": "excluded"
+    },
+    {
+      "keyword": "flexispot c7 ergonomic mesh high-back office chair c7b",
+      "source_volume": "3.6K",
+      "source_kd": "30",
+      "decision": "exclude: competitor brand/model intent",
+      "target": null,
+      "intent": "competitor navigational",
+      "b2b_priority": "excluded"
+    },
+    {
+      "keyword": "mesh office chair",
+      "source_volume": "3.6K",
+      "source_kd": "25",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/products/mesh-office-chairs",
+      "intent": "commercial category",
+      "b2b_priority": "primary"
+    },
+    {
+      "keyword": "workpro v2 series ergonomic mesh/ fabric high-back office chair",
+      "source_volume": "3.6K",
+      "source_kd": "不可用",
+      "decision": "exclude: competitor brand/model intent",
+      "target": null,
+      "intent": "competitor navigational",
+      "b2b_priority": "excluded"
+    },
+    {
+      "keyword": "mesh office chair office furniture",
+      "source_volume": "2.9K",
+      "source_kd": "22",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/products/mesh-office-chairs",
+      "intent": "commercial category",
+      "b2b_priority": "primary"
+    },
+    {
+      "keyword": "how to clean a mesh office chair",
+      "source_volume": "140",
+      "source_kd": "10",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/blog/how-to-clean-a-mesh-office-chair",
+      "intent": "informational support",
+      "b2b_priority": "supporting"
+    },
+    {
+      "keyword": "how to clean mesh office chair",
+      "source_volume": "110",
+      "source_kd": "7",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/blog/how-to-clean-a-mesh-office-chair",
+      "intent": "informational support",
+      "b2b_priority": "supporting"
+    },
+    {
+      "keyword": "how to clean office chair mesh",
+      "source_volume": "50",
+      "source_kd": "15",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/blog/how-to-clean-a-mesh-office-chair",
+      "intent": "informational support",
+      "b2b_priority": "supporting"
+    },
+    {
+      "keyword": "how to assemble mesh office chair",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/blog/ergonomic-mesh-office-chair-bulk-buying-guide#assembly",
+      "intent": "informational support",
+      "b2b_priority": "supporting"
+    },
+    {
+      "keyword": "how to clean a mesh office chair seat",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "cover naturally; shared intent variants use one target page",
+      "target": "/blog/how-to-clean-a-mesh-office-chair",
+      "intent": "informational support",
+      "b2b_priority": "supporting"
+    }
+  ],
+  "content_pages": [
+    "products/mesh-office-chairs.html",
+    "products/mesh-office-chairs/page-2.html",
+    "blog/ergonomic-mesh-office-chair-bulk-buying-guide.html",
+    "blog/how-to-clean-a-mesh-office-chair.html"
+  ],
+  "care_reference": "https://www.hermanmiller.com/content/dam/hermanmiller/documents/materials/reference_info/care_aeron.pdf"
+}
