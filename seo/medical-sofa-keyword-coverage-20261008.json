@@ -1,0 +1,1696 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-162806(1).csv",
+  "input_rows": 209,
+  "supported_keywords": 9,
+  "not_targeted_rows": 200,
+  "modified_pages": [
+    "products/hs-s-510-2-medical-companion-sofa.html",
+    "products/hs-s-511-medical-companion-sofa.html",
+    "products/hs-s-545-medical-companion-sofa.html",
+    "products/jt-sa-4069-medical-companion-sofa.html",
+    "products/jt-2174-medical-companion-sofa.html",
+    "products/medical-companion-sofas.html"
+  ],
+  "screened_rows": [
+    {
+      "keyword": "my medic sof tactical tourniquet",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "16",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical abbreviation",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "33",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical score",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "46",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa score medical",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "55",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medication",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "61",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof tactical tourniquet",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "boston medical center sofar clinic",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "boston medical center sofar program",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "centro médico santa sofía",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical sofa",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/medical-companion-sofas",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medical sofa bed",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/hs-s-510-2-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medical sofa chair",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/jt-2174-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "mr sofa medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof in medical billing",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof in medical terms",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof meaning in medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof meaning medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical abbreviation",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical abbreviation in orthopedic",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical handbook",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical handbook pdf",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical meaning",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical sergeant",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa abbreviation medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa acronym medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa full form in medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa in medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa in medical term",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa meaning in medical term",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa meaning medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medic",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical term",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa score in medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer medical spa",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof tourniquet",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what does sofa stand for medical",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "boston medical center sofar program hcv",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "bucuresti aviz medical psihologic sofer profesionist pret",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "centro médico estrella sofía",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medicated sofa",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nato sof medical officer titles",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof fracture medical abbreviation",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof full form in medical",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical simulation",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar program boston medical center",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "special operations medical officer nato or sof doctor rank title",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof-t tourniquet",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions tacmed solutions sof tourniquet",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "1 american red cross tactical medical sof tourniquet",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "angajari sofer distributie medicamente",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "aviz medical sofer profesionist bucuresti pret",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "boston medical center sofar",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "boston medical center sofar program hcv oud",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "brand sof weightloss medication",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "bsn medical sof-rol 9033",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "bucuresti aviz medical psihologic sofer profesionist pret 2025",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "bucuresti aviz medical sofer profesionist pret",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "centro médico estrella sofía ciudad real",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "china medical lifting sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "clinica de alergias especialidades medicas sof & medic",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "cook medical sof flex",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "cook medical sof-flex",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "cuadro médico hospital reina sofía córdoba",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "cuadro médico hospital reina sofía murcia",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "current sof medical sop",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "dcst medical sof",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "drug interation sof medications commonly used in hypertension",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "eagle industries sof medical pouch",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "european sof medical symposium",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "example sof good secondary pictures medical school",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "example sof medical school",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "glascow sofa medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "harris furnishings and sofa medico",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "history of sof medic",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "hotel recyclable medication sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "howard sofen medical board",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "https special-ops.org sof unit navy-seal-combat-medic amp",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "locuri de munca cluj sofer distributie medicamente",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "locuri de munca sofer distributie medicamente",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical gear carried by sof medics",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical interventions type sof interventiosn",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical office furniture sofa to bed",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/hs-s-510-2-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medical purposes sof marihuana",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical recliner sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/hs-s-545-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medical rising assistance sofa brush",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical rising assistance sofa disinfection brush",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical rising assistance sofa soft brush",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical safety data sheet sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical sleeper sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/hs-s-511-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medical sof",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical sof mes sets",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical sof units",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical sofa score",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medical waiting room sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/jt-sa-4069-medical-companion-sofa",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "medicated sofa come bed",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medication intitle sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "medication intitle: sofa",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "morry sofer translator self-training-spanish medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "médico de sofá chicago",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nato sof medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nato sof medical officer title",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nato sof medical officer title or designation",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nato sof medical officer titles ranks",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "nature brand furniture sofa to bed medical clinic",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "otterbox drybox 3250 series sof medic",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "pa school for sof medics",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "propper sof medical pouch",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "removal sof tissue medical term",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sc sof medica srl",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "skedco combat casevac sof mobility kit litter carrier medic bag",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "skinny medic sof t",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof abbreviation medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof combat medic trauma kit",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof combat medic trauma kit 2007",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof combat medic trauma kit-2007",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof definition medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof individual medical aid pouch",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic book",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic identifier",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic jobs",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic pack",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medic podcast",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medica",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medica srl",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medica srl bucuresti",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medica srl contact",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical clinics afghanistan",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical conference",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical definition",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical equipment",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical handbook 2nd edition pdf",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical handbook android",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical handbook veterinary",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical kit",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical officer title",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical planners course",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical pouch",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical programs in south america",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical term",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medical training",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof medics",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof stands for medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sof-ifak socom medical contents",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa closed medication affordable rent",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa for medical office",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/medical-companion-sofas",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "sofa from medical records",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa king medical cannabis weedmaps",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa king medical dumon co",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical group",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medical meaning",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa medico",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa score from medical records",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa score medical criteria",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa score medical review",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa scores medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa significado medico",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofa stand for in medical terms",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar boston medical center",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar clinic boston medical center",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar clinic boston medical center hcv",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar clinic boston medical center hcv oud",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar program boston medical center hcv",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofar program boston medical center hcv oud",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofas medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "supported furniture topic",
+      "primary_url": "https://huangsifurniture.com/products/medical-companion-sofas",
+      "reason": "Relevant furniture query; related chair/sofa constructions explicitly distinguished"
+    },
+    {
+      "keyword": "sofer distributie medicamente",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente brasov",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente bucuresti",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente cluj",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente constanta",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente iasi",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente oradea",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente ploiesti",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente sibiu",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer distributie medicamente timisoara",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer medical spa flint",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer medical spa flint mi",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer medication",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofer transport medicamente",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofá médico dc",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "sofá médico philadelphia",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "special operations medical officer nato or sof doctor title",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "special operations medical officer nato or sof physician title",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "stanford medical school sofe fe",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical sof tactical tourniquet wide gen 4 soft-t",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical sof tourniquet",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof t tourniquet",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof tactical tourniquet wide",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof tt-w",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tactical medical solutions sof-tt-w tourniquet 1.5",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "team medics sof",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tems documents manuals sof medical handbook",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "titles for medical doctors in nato special operations forces sof",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "titles for medical doctors physicians in nato special forces sof",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "translator self training spanish medical morry sofer pdf",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "translator self-training-spanish medical morry sofer pdf",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tyr sof ifak medical pouch",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "tyr tactical sof ifak medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "uzi sofer alpha tau medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "value and gola sof hte er musc medical center",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "wake forest medical school letter sof rec",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what does sof mean in medical terms",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what does sof stand for in medical insurance",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what does sof stand for in medical terms",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what is sof in medical billing",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what is sof in medical terms",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    },
+    {
+      "keyword": "what is sofa medical",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "status": "not targeted in this batch",
+      "primary_url": null,
+      "reason": "Outside the supported furniture shortlist: clinical, provider, brand, unrelated or ambiguous intent; no page targeting added"
+    }
+  ],
+  "coverage_note": "Semantic furniture-intent coverage. Sofa-chair and recliner queries route to explicitly described chair models, without claiming multi-seat versions. Export zero volume and unavailable KD are not validated.",
+  "not_claimed": "No medical treatment, safety approval, certification, antimicrobial result or ranking/indexing result added or claimed. Existing specifications are references requiring order confirmation.",
+  "verification": {
+    "specification_evidence": "Existing dimensions and functions of five model tables",
+    "navigation_images_cards_gallery": "Unchanged",
+    "audit": "No new issues relative to pre-change baseline permitted"
+  }
+}
