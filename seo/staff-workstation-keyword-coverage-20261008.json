@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-154116(2).csv",
+  "input_rows": 3083,
+  "supported_cluster_keywords": 68,
+  "scope": "staff desks and fixed commercial office workstation procurement",
+  "modified_pages": [
+    "products/hm-p01-2-two-person-staff-workstation.html",
+    "products/fl-p02-2a-modular-staff-workstation.html",
+    "products/u1-f-403-modular-staff-workstation.html",
+    "products/zl-d0124-modular-staff-workstation.html",
+    "products/ws-ofe-wtc10-2814-modular-office-workstation.html",
+    "products/do-umy-d0314-office-workstation.html",
+    "products/staff-desk.html",
+    "products/staff-desk/page-2.html",
+    "products/staff-desk/page-3.html",
+    "products/staff-desk/page-4.html",
+    "workstations.html",
+    "blog/how-to-choose-office-workstations-for-commercial-projects.html"
+  ],
+  "keywords": [
+    {
+      "keyword": "workstation desk",
+      "volume_as_supplied": "1,300",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "4",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desk workstation",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "34",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation tables",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "30",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer workstation desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desks and workstations",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desks workstations",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation desk office",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "30",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation furniture",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desk workstations",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office desks and workstations",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office furniture workstations",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "20",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation desks",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation table",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstations desks",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstations for office",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "20",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation desk",
+      "volume_as_supplied": "170",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "bulk desks",
+      "volume_as_supplied": "140",
+      "kd_as_supplied": "21",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "bulk office desks",
+      "volume_as_supplied": "140",
+      "kd_as_supplied": "3",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer furniture workstation",
+      "volume_as_supplied": "140",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "commercial grade workstations office desks",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "29",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "commercial workstations",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office desk workstation",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation furniture",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "table for workstation",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "52",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "table workstation",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "wholesale desks",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "10",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "wholesale office desks",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "9",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation office",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "20",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "staff desk",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "18",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation office furniture",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "commercial workstation desk",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer desk and workstation",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "furniture office workstation",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "33",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office desks workstations",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation desks",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "33",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation table",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "24",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation in office",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "3",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstations office",
+      "volume_as_supplied": "70",
+      "kd_as_supplied": "28",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "6 person workstation desk",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "6",
+      "primary_url": "https://huangsifurniture.com/products/fl-p02-2a-modular-staff-workstation",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "commercial office workstations",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "30",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer desks workstation",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "modular desks for office",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "22",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office desk workstations",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstation with storage",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "28",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office workstations desks",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "25",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer workstation furniture",
+      "volume_as_supplied": "40",
+      "kd_as_supplied": "34",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desks workstation",
+      "volume_as_supplied": "40",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstations desk",
+      "volume_as_supplied": "40",
+      "kd_as_supplied": "31",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "computer desks and workstations",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "desks & workstations",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office desk wholesale",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "20",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office furniture workstation",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "29",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation office desk",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "workstation table for office",
+      "volume_as_supplied": "30",
+      "kd_as_supplied": "30",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office staff desk",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "office staff desk design",
+      "volume_as_supplied": "10",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "4 person workstation staff desks",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "dual staff workstation desk",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "melamine office staff desk manufacturer",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "melamine office staff desk manufacturers",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "melamine office staff desk supplier",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "melamine office staff desk suppliers",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "modular workstation staff desk",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "staff desks",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "wholesale melamine office staff desk",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "wholesale melamine office staff desk factory",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/blog/how-to-choose-office-workstations-for-commercial-projects",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    },
+    {
+      "keyword": "wholesale modular staff workstation desk",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/staff-desk",
+      "coverage": "semantic topic coverage; synonymous queries share a substantive page"
+    }
+  ],
+  "not_claimed": "No ranking or indexing result is established by content changes. Volume and KD are supplied export values; zero and unavailable remain unverified.",
+  "exclusions": [
+    "Competitor brands and unrelated home-office or local retail searches",
+    "Eight-person layouts without confirmed model specifications",
+    "Other desk topics already covered or requiring separate page review"
+  ],
+  "verification": {
+    "model_evidence": "Existing dimensions and features in the six model specification tables",
+    "images_navigation_cards_and_gallery": "Unchanged",
+    "site_audit": "Existing issues compared before and after; no new issues allowed"
+  }
+}
