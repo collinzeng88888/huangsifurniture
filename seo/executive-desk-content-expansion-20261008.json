@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-151018(1).csv",
+  "source_status": "Invalid keyword export: 3 tool-interface rows only; President's Desk appears as the search topic. No valid volume, KD or keyword rows.",
+  "basis": "Editorial expansion based on the observed search topic and existing HUANGSI product specifications. Not imported SEMrush keyword results or verified ranking changes.",
+  "editorial_terms": [
+    {
+      "keyword": "president's desk",
+      "target": "https://huangsifurniture.com/products/executive-office-desk",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive office desk",
+      "target": "https://huangsifurniture.com/products/executive-office-desk",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "CEO office desk",
+      "target": "https://huangsifurniture.com/products/executive-office-desk",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive desk dimensions",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive desk with return",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "wood executive desk",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "custom executive desk",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive desk manufacturer",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive desk price",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "executive office furniture",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "luxury executive desk",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    },
+    {
+      "keyword": "bulk executive desk procurement",
+      "target": "https://huangsifurniture.com/blog/executive-office-desk-materials-and-size-guide",
+      "source_volume": null,
+      "source_kd": null
+    }
+  ],
+  "model_pages": 6,
+  "collection_pages": 5,
+  "existing_guide_updated": "/blog/executive-office-desk-materials-and-size-guide",
+  "constraints": "No new solid-wood, whole-desktop lifting, universal price, lead time or MOQ claims. Existing imagery, navigation, product cards and pagination preserved.",
+  "additional_source": "kunyu-semrush-keywords-all-pages-20261008-151633.csv",
+  "additional_source_rows": 244,
+  "additional_source_screening": {
+    "excluded_rows": 237,
+    "held_rows": 7,
+    "newly_targeted_rows": 0,
+    "excluded_reason": "Political, historical presidential/White House desk, media, bill/veto and unrelated intent.",
+    "held_keywords": [
+      {
+        "keyword": "oval executive desk",
+        "volume": "40",
+        "kd": "20",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "the president desk",
+        "volume": "40",
+        "kd": "34",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "presidential office desk",
+        "volume": "30",
+        "kd": "35",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "vice president's desk",
+        "volume": "10",
+        "kd": "不可用",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "president's desk arrangements",
+        "volume": "0",
+        "kd": "不可用",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "president's desks",
+        "volume": "0",
+        "kd": "不可用",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      },
+      {
+        "keyword": "president's office desk",
+        "volume": "0",
+        "kd": "不可用",
+        "decision": "hold: mixed commercial/historical intent; no matching specific configuration established"
+      }
+    ]
+  }
+}
