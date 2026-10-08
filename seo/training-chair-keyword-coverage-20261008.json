@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-134100(1).csv",
+  "metrics_note": "Export values supplied by user; reporting region and period unavailable. SERP URLs are not keywords or HUANGSI rankings.",
+  "target": "/products/training-chairs",
+  "changed_pages": [
+    "products/training-chairs.html",
+    "products/jx-817a-training-chair.html",
+    "products/jx-856a-training-chair.html",
+    "products/ld-003g-training-chair.html",
+    "products/ld-018-training-chair.html",
+    "products/ld-06-training-chair.html",
+    "products/ld-230-training-chair.html",
+    "products/yh-320-training-chair.html",
+    "products/yh-ts-306-training-chair.html",
+    "products/yh-ts-307-training-chair.html",
+    "products/yh-ts-315-training-chair.html",
+    "products/yh-ts-339-training-chair.html",
+    "products/ys-623-training-chair.html",
+    "products/ys-630-1-training-chair.html",
+    "products/ys-630-training-chair.html",
+    "products/ys-666-training-chair.html"
+  ],
+  "records": [
+    {
+      "source_text": "office training chair",
+      "source_volume": "20",
+      "source_kd": "6",
+      "decision": "cover with natural B2B wording",
+      "target": "/products/training-chairs",
+      "b2b_priority": "primary"
+    },
+    {
+      "source_text": "china training meeting room office chair",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover with natural B2B wording",
+      "target": "/products/training-chairs",
+      "b2b_priority": "primary"
+    },
+    {
+      "source_text": "core training office chair",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude unclear or exercise-related intent",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "couch to 5k training planbest office chair for back support",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude unclear or exercise-related intent",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "office chair trainer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude unclear or exercise-related intent",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.millerknoll.com/products/seating/office-chairsmillerknoll.com",
+      "source_volume": "https://www.millerknoll.com/products/seating/office-chairsmillerknoll.com",
+      "source_kd": "33",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.worthingtondirect.com/brands/office-master/executive-office-chairsworthingtondirect.com站点子链",
+      "source_volume": "https://www.worthingtondirect.com/brands/office-master/executive-office-chairsworthingtondirect.com站点子链",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.xchair.com/collections/office-chairsxchair.com站点子链",
+      "source_volume": "https://www.xchair.com/collections/office-chairsxchair.com站点子链",
+      "source_kd": "41",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.pinterest.com/pin/777645060697173058/pinterest.com",
+      "source_volume": "https://www.pinterest.com/pin/777645060697173058/pinterest.com",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.mwworkstation.com/products/training-chairs.htmlmwworkstation.com",
+      "source_volume": "https://www.mwworkstation.com/products/training-chairs.htmlmwworkstation.com",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.aadinathfurniture.com/how-to-choose-best-training-room-chairs/aadinathfurniture.com",
+      "source_volume": "https://www.aadinathfurniture.com/how-to-choose-best-training-room-chairs/aadinathfurniture.com",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://sunlineoffice.com/product-category/office-seating/sunlineoffice.com",
+      "source_volume": "https://sunlineoffice.com/product-category/office-seating/sunlineoffice.com",
+      "source_kd": "17",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://www.youtube.com/watch?v=4ZUSp9LkfxUyoutube.com视频",
+      "source_volume": "https://www.youtube.com/watch?v=4ZUSp9LkfxUyoutube.com视频",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    },
+    {
+      "source_text": "https://parlorcityfurniture.com/collections/training-room-furnitureparlorcityfurniture.com",
+      "source_volume": "https://parlorcityfurniture.com/collections/training-room-furnitureparlorcityfurniture.com",
+      "source_kd": "0",
+      "decision": "exclude SERP result URL",
+      "target": null,
+      "b2b_priority": "excluded"
+    }
+  ]
+}
