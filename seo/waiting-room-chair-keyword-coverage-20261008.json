@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-172737.csv",
+  "input_rows": 3,
+  "supported_keywords": 3,
+  "modified_pages": [
+    "products/jt-sa-2190-waiting-sofa-chair.html",
+    "products/ld25-10-waiting-sofa-chair.html",
+    "products/waiting-sofa-chairs.html"
+  ],
+  "keywords": [
+    {
+      "keyword": "waiting room sofa chairs",
+      "volume_as_supplied": "20",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/waiting-sofa-chairs",
+      "coverage": "Furniture-intent semantic coverage; intended-use requirements require model-specific review"
+    },
+    {
+      "keyword": "hospital waiting room sofa chairs",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/waiting-sofa-chairs",
+      "coverage": "Furniture-intent semantic coverage; intended-use requirements require model-specific review"
+    },
+    {
+      "keyword": "salon waiting chairs sofas",
+      "volume_as_supplied": "0",
+      "kd_as_supplied": "不可用",
+      "primary_url": "https://huangsifurniture.com/products/waiting-sofa-chairs",
+      "coverage": "Furniture-intent semantic coverage; intended-use requirements require model-specific review"
+    }
+  ],
+  "verification": {
+    "specification_evidence": "Existing JT-SA-2190 and LD25-10 configuration and dimension tables",
+    "navigation_images_cards_gallery": "Unchanged",
+    "audit": "No new audit issues relative to baseline permitted"
+  },
+  "limits": "Zero volume and unavailable keyword metrics are preserved, not verified demand. No ranking, indexing, medical approval or material performance result is claimed."
+}
