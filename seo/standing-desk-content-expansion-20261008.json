@@ -1,0 +1,859 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-161723.csv",
+  "input_rows": 2600,
+  "supported_cluster_keywords": 118,
+  "modified_pages": [
+    "products/gc-p01d-1-single-height-adjustable-desk.html",
+    "products/gc-p01d-2-dual-height-adjustable-bench-desk.html",
+    "products/gc-p01d-2a-four-person-height-adjustable-workstation.html",
+    "products/gc-p05d-2-black-dual-height-adjustable-bench-desk.html",
+    "products/gc-p05d-2a-plus-black-four-person-height-adjustable-workstation.html",
+    "products/kj-sj-kbbt12-a-single-height-adjustable-desk.html",
+    "products/kj-sj-kbbt12-e-dual-height-adjustable-bench-desk.html",
+    "products/height-adjustable-desk.html",
+    "blog/custom-adjustable-desk-manufacturer-buying-guide.html",
+    "blog/height-adjustable-desk-vs-traditional-office-desk.html"
+  ],
+  "keywords": [
+    {
+      "keyword": "standing desk",
+      "volume_as_supplied": "90,500",
+      "kd_as_supplied": "66",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk adjustable",
+      "volume_as_supplied": "40,500",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "what is a standing desk",
+      "volume_as_supplied": "40,500",
+      "kd_as_supplied": "57",
+      "primary_url": "https://huangsifurniture.com/blog/height-adjustable-desk-vs-traditional-office-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric standing desk",
+      "volume_as_supplied": "14,800",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable standing desk",
+      "volume_as_supplied": "12,100",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit stand desk",
+      "volume_as_supplied": "12,100",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "stand up desk",
+      "volume_as_supplied": "12,100",
+      "kd_as_supplied": "55",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable desk",
+      "volume_as_supplied": "9,900",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desks",
+      "volume_as_supplied": "9,900",
+      "kd_as_supplied": "54",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable standing desk",
+      "volume_as_supplied": "6,600",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height standing desk",
+      "volume_as_supplied": "5,400",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electronic standing desk",
+      "volume_as_supplied": "3,600",
+      "kd_as_supplied": "52",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit and stand desk",
+      "volume_as_supplied": "3,600",
+      "kd_as_supplied": "47",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit to stand desk",
+      "volume_as_supplied": "3,600",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "small standing desk",
+      "volume_as_supplied": "3,600",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric desk",
+      "volume_as_supplied": "2,900",
+      "kd_as_supplied": "56",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "stand up desks",
+      "volume_as_supplied": "2,400",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk adjustable height",
+      "volume_as_supplied": "2,400",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric height adjustable desk",
+      "volume_as_supplied": "1,900",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit stand desk",
+      "volume_as_supplied": "1,900",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "white standing desk",
+      "volume_as_supplied": "1,900",
+      "kd_as_supplied": "33",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable desk",
+      "volume_as_supplied": "1,600",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable standing desk",
+      "volume_as_supplied": "1,600",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric height adjustable standing desk",
+      "volume_as_supplied": "1,600",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric stand up desk",
+      "volume_as_supplied": "1,600",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric stand up desks",
+      "volume_as_supplied": "1,600",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height electric desk",
+      "volume_as_supplied": "1,300",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit & stand desk",
+      "volume_as_supplied": "1,300",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "motorized standing desk",
+      "volume_as_supplied": "1,300",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit stand motorized desk",
+      "volume_as_supplied": "1,300",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height desks electric",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable desks",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable height desk",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electronic sit to stand desk",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "55",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit stand desks",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk white",
+      "volume_as_supplied": "1,000",
+      "kd_as_supplied": "38",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "black standing desk",
+      "volume_as_supplied": "880",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric standing desk adjustable height",
+      "volume_as_supplied": "880",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electrical sit stand desk",
+      "volume_as_supplied": "880",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electronic sit stand desk",
+      "volume_as_supplied": "880",
+      "kd_as_supplied": "38",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric standing desks",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "55",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric standing sitting desk",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "52",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electronic stand up desk",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable office desk",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable workstation",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "motorized sit stand desk",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sitting standing desk",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "stand up desk electric",
+      "volume_as_supplied": "720",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height stand up desks",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable sit stand desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable standing desks",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "49",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "custom standing desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "dual motor standing desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "25",
+      "primary_url": "https://huangsifurniture.com/products/kj-sj-kbbt12-a-single-height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable stand up desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "motorized desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit and stand desks",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit stand electric",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "33",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit to stand desks",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sit-stand desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "stand up desk black",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk small",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "32",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "walnut standing desk",
+      "volume_as_supplied": "590",
+      "kd_as_supplied": "12",
+      "primary_url": "https://huangsifurniture.com/products/kj-sj-kbbt12-e-dual-height-adjustable-bench-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable stand up desk",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "compact standing desk",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "27",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable height standing desk",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric desks that adjust height",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "47",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit stand",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "34",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable computer desk",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "motorized stand up desk",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk office",
+      "volume_as_supplied": "480",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "computer standing desk",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "desk electric",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric adjustable office desk",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric desk adjustable",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "51",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric height adjustable office desk",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "sitting to standing desk",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "47",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "small stand up desk",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "22",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk black",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk electric",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "53",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk for office",
+      "volume_as_supplied": "390",
+      "kd_as_supplied": "44",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable desk electric",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable desk sit stand",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable electric desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "39",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height desk electric",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "47",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable height electric standing desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "51",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable sitting standing desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "automatic standing desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "52",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electronic adjustable standing desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk adjustable sit stand desk",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk motorized",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "48",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "standing desk with cable management",
+      "volume_as_supplied": "320",
+      "kd_as_supplied": "29",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable electric standing desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "37",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "adjustable sit to stand desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "desk height adjustable",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "35",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric computer desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "58",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric rising desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "56",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit to stand desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "41",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electrical desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "50",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electrical standing desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "47",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable electric desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "46",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "height adjustable standing desks",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "motorized sit to stand desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "office desk height adjustable",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "34",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "seated standing desk",
+      "volume_as_supplied": "260",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "2 person standing desk",
+      "volume_as_supplied": "210",
+      "kd_as_supplied": "15",
+      "primary_url": "https://huangsifurniture.com/products/gc-p01d-2-dual-height-adjustable-bench-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit stand workstations",
+      "volume_as_supplied": "170",
+      "kd_as_supplied": "49",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit stand desks",
+      "volume_as_supplied": "140",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit stand workstation",
+      "volume_as_supplied": "140",
+      "kd_as_supplied": "42",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "commercial standing desk",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "21",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "dual motor electric standing desk",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "13",
+      "primary_url": "https://huangsifurniture.com/products/kj-sj-kbbt12-a-single-height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "dual motors standing desk",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "24",
+      "primary_url": "https://huangsifurniture.com/products/kj-sj-kbbt12-a-single-height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "two person standing desk",
+      "volume_as_supplied": "110",
+      "kd_as_supplied": "10",
+      "primary_url": "https://huangsifurniture.com/products/gc-p01d-2-dual-height-adjustable-bench-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "commercial stand up desk",
+      "volume_as_supplied": "90",
+      "kd_as_supplied": "43",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "black electric sit and stand desks",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "32",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "commercial grade sit and stand desks",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "36",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "commercial sit stand desk",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "45",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sit and stand desk",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    },
+    {
+      "keyword": "electric sitting standing desk",
+      "volume_as_supplied": "50",
+      "kd_as_supplied": "40",
+      "primary_url": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "coverage": "Supported topic and synonym coverage; existing coverage expanded, not a claim that every term is new or exact-match"
+    }
+  ],
+  "not_claimed": "No ranking/indexing result, medical benefit, verified performance test, unlisted feature or new coverage for every synonym is claimed.",
+  "held_or_outside_batch": [
+    "Competitor brands, local retail and unrelated home/gaming searches",
+    "Desktop risers/converters: comparison only, not products offered",
+    "Unconfirmed L-shaped, wheeled, folding, glass/solid-wood or accessory configurations",
+    "Other queries outside this supported shortlist require separate review"
+  ],
+  "verification": {
+    "evidence": "Existing specification tables for seven adjustable desk models",
+    "scope": "Metadata, model-specific procurement copy, visible matching FAQs, internal links and sitemap dates",
+    "images_navigation_cards_and_gallery": "Unchanged",
+    "audit": "No new issues relative to the baseline permitted"
+  }
+}
