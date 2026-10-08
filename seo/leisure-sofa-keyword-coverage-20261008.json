@@ -1,0 +1,1832 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-135430.csv",
+  "metrics_note": "Source export only; all KD values unavailable, most volume values zero and export requests metrics refresh. Not verified search rankings, traffic or demand.",
+  "changed_pages": [
+    "products/lounge-sofas.html",
+    "products/office-sofa.html",
+    "products/lounge-sofas/page-2.html",
+    "products/lounge-sofas/page-3.html",
+    "products/office-sofa/page-2.html",
+    "products/office-sofa/page-3.html",
+    "blog/commercial-lounge-chair-sofa-sourcing-guide.html"
+  ],
+  "records": [
+    {
+      "keyword": "costway convertible sofa bed folding arm chair sleeper leisure recliner",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "crate & barrel leisure power recliner sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure recliner",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure recliner fabric breathable lazy sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "jensen leisure opal sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "klaussner leisure sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure power recliner sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure power recliner sofa by crate and barrel",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa bed",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa chair",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "multifunctional leisure sofa and chair",
+      "source_volume": "20",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible folding leisure recliner sofa bed",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure lounges - custom australian made sofas",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa set",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa supplier",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "sofa f leisure",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "2017 leisure travel vans serenity tri fold sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "2019 leisure travel vans serenity with power tri-fold sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "abacus leisure sofas",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "adjustable foldable leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "adjustable foldable leisure sofa bed by merax",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "adjustable folding leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "aluminum frame loop fabric outdoor leisure corner sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "aluminum frame outdoor leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "beige high-quality fabric leisure barry sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "belleze chaise lounge leisure chair rest sofa couch",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "belleze teofila tufted chaise lounge chair leisure sofa couch",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "best customized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "best lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "best oem lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "best professionalized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set factory quotes",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set manufacture",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set suppliers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red leisure sofa set wholesalers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red rattan leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "black and red rattan leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "brown rattan leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "bsci customized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci customized lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci customized lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci oem lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci professional lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci professional lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "bsci professionalized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "cheap leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "china leisure outdoor cafe sofa set solution",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "china leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "china leisurely office sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "china leisurely office sofa factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "china leisurely office sofa manufacturer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "china white fabric leisure lazy sofa chair 1 company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "china white fabric leisure lazy sofa chair 1 purchasing",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "china white fabric leisure lazy sofa chair 1 wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible folding leisure recliner sofa bed coffee",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible folding leisure recliner sofa bed-coffee",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible folding leisure recliner sofa bedcoffee",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible sofa chair leisure recliner rule",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "convertible sofa chair leisure recliner trule",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "costway convertible folding leisure recliner sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "costway convertible sofa bed folding arm chair sleeper leisure recliner-brown",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "costway convertible sofa bed folding arm chair sleeper leisure reclinerbrown",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "costway convertible sofa bed folding sleeper leisure",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "crate & barrel leisure power recliner sofa reviews",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "creative rattan sofa bed leisure lying lounge chair",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "custom leisure living room sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "custom outdoor leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "customized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "customized lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "customized lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "customized oem black and red rattan leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "durable leisure outdoor cafe sofa set for sale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "fabric outdoor leisure corner sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "fabric patio leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "factory supply black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "factory supply three piece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "factory supply three-piece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "factory supply threepiece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "factory wholesale black and red rattan leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "family leisure modular sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "family leisure patio furniture curved sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "foldable leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "foldable pu leather leisure floor sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "foldable pu leather leisure floor sofa bed w 2 pillows",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "foldable pu leather leisure floor sofa bed w/ 2 pillows",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "folding leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure lounger",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure recliner fabric breathable lazy sofa ikea",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "folding sofa bed leisure recliner ikea",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "fsc customized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc customized lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc customized lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc oem lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc professional lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "fsc professional lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; certification evidence unavailable",
+      "target": null
+    },
+    {
+      "keyword": "giantex 26.5 convertible sofa bed folding arm chair sleeper leisure",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "giantex modern gray accent chair leisure arm sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "goplus accent leisure arm chair upholstered sofa wooden review",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "high quality leisure garden sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "high quality leisure outdoor cafe sofa set solution",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "high quality leisure outdoor sofas",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "high quality outdoor leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "how heavy of goplus accent leisure arm chair upholstered sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "https www.wayfair.com merax-adustable-foldable-leisure-sofa-bed-mqx1371.html",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "ikea folding sofa bed leisure recliner",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "ikea folding sofa bed leisure recliner fabric breathable lazy sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "jensen leisure coral sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "jensen leisure opal sofa with cushion",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "klaussner living room leisure slipcover l shaped sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "lazy leisure rocking chair sofa firm",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure arlo cot dog sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure club outdoor sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure floor sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure garden sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure garden sofa pricelist",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure lounge sofas",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure lounges custom australian made sofas",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure luxury sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure massage sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure mod sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure outdoor cafe sofa set solution",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure outdoor sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure outdoor sofas",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure outdoor sofas price",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure recliner sofa bed price comparison",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa and chair",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa bed with adjustable backrest",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa chair exporters",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa factories",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa inflatable",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa klaussner",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa malaysia",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "leisure sofa manufacturers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa quotes",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa supplier",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure sofa suppliers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "leisure zone sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "leisurely office sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "leisurely office sofa factories",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "leisurely office sofa factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "leisurely office sofa manufacturers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "leisurely office sofa supplier",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "leisurely office sofa suppliers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "merax adjustable foldable modern leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "merax pu leather foldable modern leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "merax pu leather foldable modern leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "modern gray accent chair leisure arm sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "multifunctional leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "norfolk leisure oxborough pull-out lounge sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "norfolk leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude competitor/brand navigational intent",
+      "target": null
+    },
+    {
+      "keyword": "oem black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem black and red rattan leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem lazy leisure rocking chair sofa company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem lazy leisure rocking chair sofa firm",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "oem white fabric leisure lazy sofa chair 1",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa 19.99",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa combination",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa combination single double rattan",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa combination single double rattan furniture",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure balcony sofa reviews",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure corner sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa quotes",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa series",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa set company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "outdoor leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "practical folding sofa bed leisure lounger fabric breathable",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "professional lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "professional lazy leisure rocking chair sofa company",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "professional lazy leisure rocking chair sofa maker",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "professional lazy leisure rocking chair sofa producer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "professionalized lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red leisure sofa set wholesalers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply black and red rattan leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply brown leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply brown leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply brown rattan leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply brown rattan leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply corner sofa leisure set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "exclude ambiguous or unrelated purchasing intent",
+      "target": null
+    },
+    {
+      "keyword": "supply oem black and red rattan leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "supply three piece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply three piece leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply three piece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply three-piece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply three-piece leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply three-piece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply threepiece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply threepiece leisure sofa set wholesale",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "supply threepiece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "swinging leisure massage sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "three piece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "three piece leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "three piece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "three-piece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "three-piece leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "three-piece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "threepiece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "threepiece leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "threepiece leisure sofa set wholesale factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "top lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "velvet adjustable folding leisure sofa bed",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "white fabric leisure lazy sofa chair 1 manufacture",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red rattan leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red rattan leisure sofa set oem factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red rattan leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale black and red rattan leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale brown leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale brown rattan leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale lazy leisure rocking chair sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale lazy leisure rocking chair sofa suppliers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; model function unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/lounge-sofas"
+    },
+    {
+      "keyword": "wholesale leisurely office sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "wholesale leisurely office sofa factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "cover natural commercial intent",
+      "target": "/products/office-sofa"
+    },
+    {
+      "keyword": "wholesale supply black and red leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale supply black and red leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale supply black and red rattan leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale supply black and red rattan leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale supply brown leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; exact color/material configuration unverified",
+      "target": null
+    },
+    {
+      "keyword": "wholesale supply three piece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale supply three piece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale supply three-piece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale supply three-piece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale supply threepiece leisure sofa set",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale supply threepiece leisure sofa set factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale three piece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale three piece leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale three-piece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale three-piece leisure sofa set supply factory",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "wholesale threepiece leisure sofa set supply",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim",
+      "target": "/blog/commercial-lounge-chair-sofa-sourcing-guide#three-piece-set"
+    },
+    {
+      "keyword": "woven strap outdoor leisure sofa",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "decision": "defer; outdoor/material suitability unverified",
+      "target": null
+    }
+  ],
+  "counts": {
+    "exclude competitor/brand navigational intent": 42,
+    "defer; model function unverified": 52,
+    "cover natural commercial intent": 25,
+    "defer; outdoor/material suitability unverified": 52,
+    "exclude ambiguous or unrelated purchasing intent": 6,
+    "defer; exact color/material configuration unverified": 34,
+    "defer; certification evidence unavailable": 15,
+    "support configuration inquiry; normalize synonyms to one section; no stocked matching-set claim": 32
+  }
+}
