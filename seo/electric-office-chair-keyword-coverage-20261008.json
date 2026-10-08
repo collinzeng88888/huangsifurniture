@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-08",
+  "source": "kunyu-semrush-keywords-all-pages-20261008-112102.csv",
+  "target": "/products/electric-office-chairs",
+  "keywords": [
+    {
+      "keyword": "electric office chair",
+      "volume": 210,
+      "kd": 15,
+      "decision": "primary category target; model-specific support"
+    },
+    {
+      "keyword": "electric office chair for disabled person",
+      "volume": 110,
+      "kd": 8,
+      "decision": "defer; accessibility suitability not established"
+    },
+    {
+      "keyword": "electric lift office chair",
+      "volume": 50,
+      "kd": 11,
+      "decision": "explain mechanism difference; do not claim product availability"
+    },
+    {
+      "keyword": "office chair with brake and electric lift",
+      "volume": 50,
+      "kd": 3,
+      "decision": "specification clarification only; brakes and powered lift unverified"
+    },
+    {
+      "keyword": "office chair with electric height adjustment",
+      "volume": 40,
+      "kd": 31,
+      "decision": "explain mechanism difference; powered height adjustment unverified"
+    },
+    {
+      "keyword": "how to remove static electricity from office chair",
+      "volume": 10,
+      "kd": null,
+      "decision": "exclude; different informational intent"
+    },
+    {
+      "keyword": "did electrical office chair",
+      "volume": 0,
+      "kd": null,
+      "decision": "exclude; unclear intent"
+    }
+  ],
+  "changed_pages": [
+    "products/electric-office-chairs.html",
+    "products/electric-office-chairs/page-2.html",
+    "products/gf-1618-electric-office-chair.html",
+    "products/gf-1628-electric-office-chair.html",
+    "products/gf-1629-electric-office-chair.html",
+    "products/gf-1631-electric-office-chair.html",
+    "products/gf-1635-electric-office-chair.html",
+    "products/gf-1650-electric-office-chair.html",
+    "products/gf-1651-electric-office-chair.html",
+    "products/gf-1653-electric-office-chair.html",
+    "products/gf-1656-electric-office-chair.html",
+    "products/gf-1673-electric-office-chair.html",
+    "products/gf-1692-electric-office-chair.html",
+    "products/gf-a339-electric-office-chair.html",
+    "products/gf-zhs-electric-office-chair.html",
+    "products/zx-a20-8-electric-office-chair.html",
+    "products/zx-a26-electric-office-chair.html",
+    "products/zx-a5d-8-electric-office-chair.html",
+    "products/zx-ad19-3-electric-office-chair.html",
+    "products/zx-v600-electric-office-chair.html"
+  ],
+  "rules": [
+    "Existing model specifications only; no invented certifications, pricing or medical suitability.",
+    "Preserve navigation, product cards, image galleries and pagination.",
+    "No duplicate keyword landing pages."
+  ],
+  "related_b2b_terms": [
+    "electric reclining office chairs",
+    "bulk chair quotation",
+    "commercial project supply"
+  ],
+  "related_terms_metrics": "not supplied; no search volume inferred"
+}
