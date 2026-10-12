@@ -1,0 +1,841 @@
+{
+  "date": "2026-10-12",
+  "source": "kunyu-semrush-keywords-all-pages-20261012-151255.csv",
+  "input_rows": 1122,
+  "selected_keywords": 91,
+  "exact_in_main_content": 43,
+  "metrics_note": "User-supplied export. Market and reporting period not specified; volumes and KD are not verified current demand or HUANGSI ranking. Remaining rows are not covered by this batch. Same-intent variants share relevant pages.",
+  "modified_pages": [
+    "commercial-office-furniture-manufacturer.html",
+    "oem-manufacturing.html",
+    "products/staff-desk.html",
+    "products/office-workstation.html",
+    "office-chairs.html",
+    "office-desks.html",
+    "products/executive-office-desk.html"
+  ],
+  "score_method": "Editorial B2B intent: manufacturer/supplier/factory 95; wholesale/bulk 90; custom/modular/commercial 85; broader supported topic 70.",
+  "records": [
+    {
+      "keyword": "office cubicles",
+      "source_volume": "6,600",
+      "source_kd": "40",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office cubicle",
+      "source_volume": "3,600",
+      "source_kd": "38",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office furniture",
+      "source_volume": "2,900",
+      "source_kd": "55",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "cubicle desks for office",
+      "source_volume": "1,600",
+      "source_kd": "30",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstations",
+      "source_volume": "1,600",
+      "source_kd": "23",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "cubicle desk",
+      "source_volume": "1,000",
+      "source_kd": "23",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "business furniture",
+      "source_volume": "880",
+      "source_kd": "39",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office cubicles and partitions",
+      "source_volume": "880",
+      "source_kd": "27",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "corporate office furniture",
+      "source_volume": "720",
+      "source_kd": "45",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modern cubicles",
+      "source_volume": "720",
+      "source_kd": "25",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modern office cubicles",
+      "source_volume": "720",
+      "source_kd": "22",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture wholesale",
+      "source_volume": "720",
+      "source_kd": "70",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale office furniture",
+      "source_volume": "720",
+      "source_kd": "46",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "bulk office chairs",
+      "source_volume": "590",
+      "source_kd": "17",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "cubicle furniture",
+      "source_volume": "590",
+      "source_kd": "35",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstation",
+      "source_volume": "590",
+      "source_kd": "4",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "cubicle desks",
+      "source_volume": "480",
+      "source_kd": "28",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "cubicle office furniture",
+      "source_volume": "480",
+      "source_kd": "35",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office cubicle desk",
+      "source_volume": "480",
+      "source_kd": "29",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office cubicle furniture",
+      "source_volume": "480",
+      "source_kd": "38",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture manufacturers",
+      "source_volume": "480",
+      "source_kd": "42",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstations cubicles",
+      "source_volume": "480",
+      "source_kd": "32",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "manufacturing office furniture",
+      "source_volume": "390",
+      "source_kd": "42",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular cubicles",
+      "source_volume": "390",
+      "source_kd": "14",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular workstations",
+      "source_volume": "390",
+      "source_kd": "3",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture suppliers",
+      "source_volume": "390",
+      "source_kd": "81",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale office chairs",
+      "source_volume": "390",
+      "source_kd": "24",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular office cubicles",
+      "source_volume": "320",
+      "source_kd": "11",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular workstation",
+      "source_volume": "320",
+      "source_kd": "3",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture supplier",
+      "source_volume": "320",
+      "source_kd": "54",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture manufacturer",
+      "source_volume": "260",
+      "source_kd": "60",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "private modular workstations",
+      "source_volume": "260",
+      "source_kd": "13",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "contemporary commercial office furniture",
+      "source_volume": "210",
+      "source_kd": "26",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chair supplier",
+      "source_volume": "210",
+      "source_kd": "70",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "bulk office furniture",
+      "source_volume": "170",
+      "source_kd": "59",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office furniture company",
+      "source_volume": "170",
+      "source_kd": "69",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chair manufacturer",
+      "source_volume": "170",
+      "source_kd": "28",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chairs bulk",
+      "source_volume": "170",
+      "source_kd": "19",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chairs wholesale",
+      "source_volume": "170",
+      "source_kd": "22",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale desk chairs",
+      "source_volume": "170",
+      "source_kd": "18",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "bulk desks",
+      "source_volume": "140",
+      "source_kd": "21",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "bulk office desks",
+      "source_volume": "140",
+      "source_kd": "3",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office cubicles",
+      "source_volume": "140",
+      "source_kd": "28",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular cubicle",
+      "source_volume": "140",
+      "source_kd": "14",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chairs in bulk",
+      "source_volume": "140",
+      "source_kd": "13",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture wholesaler",
+      "source_volume": "140",
+      "source_kd": "54",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office furniture companies",
+      "source_volume": "110",
+      "source_kd": "60",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office furniture manufacturers",
+      "source_volume": "110",
+      "source_kd": "50",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial workstations",
+      "source_volume": "110",
+      "source_kd": "46",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture bulk",
+      "source_volume": "110",
+      "source_kd": "49",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture factory",
+      "source_volume": "110",
+      "source_kd": "18",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture wholesalers",
+      "source_volume": "110",
+      "source_kd": "49",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale desks",
+      "source_volume": "110",
+      "source_kd": "10",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale office desks",
+      "source_volume": "110",
+      "source_kd": "9",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial cubicles",
+      "source_volume": "90",
+      "source_kd": "26",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office furniture suppliers",
+      "source_volume": "90",
+      "source_kd": "48",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "custom cubicle",
+      "source_volume": "90",
+      "source_kd": "15",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular cubicle systems",
+      "source_volume": "90",
+      "source_kd": "17",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chair bulk",
+      "source_volume": "90",
+      "source_kd": "18",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chair wholesale",
+      "source_volume": "90",
+      "source_kd": "16",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture manufacturing",
+      "source_volume": "90",
+      "source_kd": "68",
+      "b2b_score": 70,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "custom cubicles",
+      "source_volume": "70",
+      "source_kd": "23",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "custom office furniture manufacturers",
+      "source_volume": "70",
+      "source_kd": "32",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/oem-manufacturing",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office desk chairs in bulk",
+      "source_volume": "70",
+      "source_kd": "16",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale office chair",
+      "source_volume": "70",
+      "source_kd": "17",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial cubicle systems",
+      "source_volume": "50",
+      "source_kd": "24",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial furniture solutions",
+      "source_volume": "50",
+      "source_kd": "30",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office seating",
+      "source_volume": "50",
+      "source_kd": "24",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "commercial office workstations",
+      "source_volume": "50",
+      "source_kd": "30",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "custom office cubicles",
+      "source_volume": "50",
+      "source_kd": "20",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "customize office furniture",
+      "source_volume": "50",
+      "source_kd": "21",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/oem-manufacturing",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "desk manufacturers",
+      "source_volume": "50",
+      "source_kd": "22",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "furniture for commercial spaces",
+      "source_volume": "50",
+      "source_kd": "10",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office chair factory",
+      "source_volume": "50",
+      "source_kd": "38",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale executive desks",
+      "source_volume": "50",
+      "source_kd": "13",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/products/executive-office-desk",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "workstation manufacturers",
+      "source_volume": "50",
+      "source_kd": "26",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "buy office chairs in bulk",
+      "source_volume": "40",
+      "source_kd": "16",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "customizable office furniture",
+      "source_volume": "40",
+      "source_kd": "20",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/oem-manufacturing",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular office furniture cubicles",
+      "source_volume": "40",
+      "source_kd": "28",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstation manufacturers",
+      "source_volume": "40",
+      "source_kd": "50",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstation supplier",
+      "source_volume": "40",
+      "source_kd": "43",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "where to buy office chairs in bulk",
+      "source_volume": "40",
+      "source_kd": "15",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-chairs",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "wholesale office furniture distributors",
+      "source_volume": "40",
+      "source_kd": "43",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "custom furniture for offices",
+      "source_volume": "30",
+      "source_kd": "19",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/oem-manufacturing",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular cubicle workstation",
+      "source_volume": "30",
+      "source_kd": "15",
+      "b2b_score": 85,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office desk manufacturers",
+      "source_volume": "30",
+      "source_kd": "39",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office desk wholesale",
+      "source_volume": "30",
+      "source_kd": "20",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/office-desks",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office furniture wholesale distributors",
+      "source_volume": "30",
+      "source_kd": "54",
+      "b2b_score": 90,
+      "target": "https://huangsifurniture.com/commercial-office-furniture-manufacturer",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "modular office workstation supplier",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Exact phrase in main content",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstation supplier china",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    },
+    {
+      "keyword": "office workstation table supplier",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "target": "https://huangsifurniture.com/products/office-workstation",
+      "decision": "Relevant topic / synonym content; not exact phrase",
+      "score_note": "Editorial B2B intent score; not a ranking or traffic prediction"
+    }
+  ],
+  "not_targeted_rows": 1031,
+  "not_targeted_note": "Includes competitor-brand, local-store, irrelevant and unselected variants. Not a claim that every remaining term is unsuitable."
+}
