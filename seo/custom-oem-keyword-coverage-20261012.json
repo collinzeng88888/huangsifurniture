@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-12",
+  "source": "kunyu-semrush-keywords-all-pages-20261012-164822(2).csv",
+  "input_rows": 16,
+  "selected": 4,
+  "already_exact": 2,
+  "topic_strengthened": 2,
+  "excluded": 12,
+  "modified_pages": [
+    "oem-manufacturing.html"
+  ],
+  "metrics_note": "User export; market and period unspecified. Zero volume and unavailable KD retained. B2B scores are editorial intent assessments, not ranking forecasts.",
+  "records": [
+    {
+      "keyword": "custom office furniture manufacturers",
+      "source_volume": "70",
+      "source_kd": "32",
+      "b2b_score": 95,
+      "decision": "Already present in procurement content",
+      "target": "https://huangsifurniture.com/oem-manufacturing"
+    },
+    {
+      "keyword": "best custom built-in home office furniture manufacturers",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: home-office or built-in consumer intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturer",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "decision": "Already present in page title and metadata",
+      "target": "https://huangsifurniture.com/oem-manufacturing"
+    },
+    {
+      "keyword": "top custom office furniture manufacturers reviews",
+      "source_volume": "10",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: ranking and review intent; no independent comparison evidence",
+      "target": null
+    },
+    {
+      "keyword": "custom design office furniture manufacturers",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "decision": "Design topic strengthened with natural wording; not exact phrase",
+      "target": "https://huangsifurniture.com/oem-manufacturing"
+    },
+    {
+      "keyword": "custom design office furniture manufacturers in uk",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom design office furniture manufacturers near me",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom home office furniture manufacturer",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: home-office or built-in consumer intent",
+      "target": null
+    },
+    {
+      "keyword": "custom made office furniture manufacturers in johannesburg",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers cheyenne wy",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers fort collins co",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers greeley co",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers in uk",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers laramie wy",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "custom office furniture manufacturers near glasgow",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": null,
+      "decision": "Exclude: local supplier / near-me intent",
+      "target": null
+    },
+    {
+      "keyword": "office furniture custom manufacturing china",
+      "source_volume": "0",
+      "source_kd": "不可用",
+      "b2b_score": 95,
+      "decision": "China manufacturing topic strengthened with natural wording; not exact phrase",
+      "target": "https://huangsifurniture.com/oem-manufacturing"
+    }
+  ]
+}
