@@ -9,6 +9,14 @@ for (const file of walk(root).filter(f => f.endsWith('.html'))) {
   const html = fs.readFileSync(file, 'utf8'), relative = path.relative(root, file);
   counts.html++;
   const head = html.slice(0, html.indexOf('</head>'));
+  for (const tag of html.matchAll(/<(?:img|script|link)\b[^>]*>/gi)) {
+    const resource = tag[0].match(/\b(?:src|href)=["']([^"']+)["']/)?.[1];
+    if (!resource?.startsWith('/') || resource.startsWith('//')) continue;
+    const pathname = resource.split(/[?#]/)[0];
+    if (path.extname(pathname) && !fs.existsSync(path.join(root, pathname.slice(1)))) {
+      errors.push(`${relative}: missing local resource ${resource}`);
+    }
+  }
   const canonical = head.match(/<link\b(?=[^>]*rel=["']canonical["'])(?=[^>]*href=["']([^"']+)["'])[^>]*>/)?.[1];
   const noindex = /<meta\b[^>]*name="robots"[^>]*noindex/.test(head);
   if (noindex) counts.noindex++;
