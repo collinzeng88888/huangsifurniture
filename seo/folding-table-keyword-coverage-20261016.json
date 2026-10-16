@@ -1,0 +1,28 @@
+{
+  "source": "kunyu-semrush-keywords-all-pages-20261016-165047(3).csv",
+  "total": 1100,
+  "selected": 53,
+  "decisions": {
+    "正文完整短语": 17,
+    "主题及同义承接（非逐字）": 36,
+    "待规格核实": 314,
+    "暂不优先": 188,
+    "排除": 545
+  },
+  "groups": {
+    "办公培训及会议": 5,
+    "批量采购": 5,
+    "带轮条件选型": 5,
+    "尺寸选型": 17,
+    "操作及收纳": 5,
+    "采购及通用产品": 16,
+    "尺寸材质结构或附件": 314,
+    "泛词、零售或低匹配词": 188,
+    "非目标使用场景": 280,
+    "竞品或零售商品牌": 242,
+    "二手古董或租赁": 23
+  },
+  "exact_before": 0,
+  "exact_after": 17,
+  "note": "Volume/KD/CPC copied from uploaded CSV; source region/date not verified. Content coverage is not a ranking or indexing claim."
+}
