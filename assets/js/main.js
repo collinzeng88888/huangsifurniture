@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h4>Desks + Workstations</h4>
         <a href="/products/height-adjustable-desk">Height-Adjustable Desks</a>
         <a href="/products/staff-desk">Staff Desk</a>
+        <a href="/products/folding-tables">Folding Tables</a>
       </div>
       <div class="home-mega-menu__col">
         <img src="/assets/images/nav-scene-tables.webp" width="520" height="300" alt="Tables collection scene" loading="lazy">
