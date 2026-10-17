@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-17",
+  "metrics_note": "Historical supplied keyword export values and previously observed GSC impressions; not live search volume or current rank. Export location and volume methodology unverified. No ranking or indexing guarantee. Do not combine differently dated exports as fresh metrics.",
+  "selection": "Relevance and commercial sourcing intent first; exclude unrelated brands, used goods and awkward keyword permutations. Existing natural coverage retained; six introductions improved and two metadata sets aligned.",
+  "changed_pages": [
+    "products/folding-tables.html",
+    "products/lounge-chairs.html",
+    "products/lounge-sofas.html",
+    "products/height-adjustable-desk.html",
+    "products/staff-desk.html",
+    "products/mesh-office-chairs.html"
+  ],
+  "records": [
+    {
+      "keyword": "lounge sofas",
+      "source": "HUANGSI-B2B-keywords-ranked-20261001.xlsx",
+      "source_volume": 390.0,
+      "source_kd": "45",
+      "target": "https://huangsifurniture.com/products/lounge-sofas",
+      "treatment": "Retain existing detailed procurement coverage; strengthen relevant category introduction without adding a keyword block."
+    },
+    {
+      "keyword": "accent chair supplier",
+      "source": "HUANGSI-B2B-keywords-ranked-20261001.xlsx",
+      "source_volume": 20.0,
+      "source_kd": null,
+      "target": "https://huangsifurniture.com/products/lounge-chairs",
+      "treatment": "Retain existing detailed procurement coverage; strengthen relevant category introduction without adding a keyword block."
+    },
+    {
+      "keyword": "accent chair manufacturers",
+      "source": "HUANGSI-B2B-keywords-ranked-20261001.xlsx",
+      "source_volume": 20.0,
+      "source_kd": null,
+      "target": "https://huangsifurniture.com/products/lounge-chairs",
+      "treatment": "Retain existing detailed procurement coverage; strengthen relevant category introduction without adding a keyword block."
+    },
+    {
+      "keyword": "adjustable computer workstation",
+      "source": "HUANGSI-B2B-keywords-ranked-20261001.xlsx",
+      "source_volume": 20.0,
+      "source_kd": null,
+      "target": "https://huangsifurniture.com/products/height-adjustable-desk",
+      "treatment": "Retain existing detailed procurement coverage; strengthen relevant category introduction without adding a keyword block."
+    },
+    {
+      "keyword": "folding conference room table",
+      "source": "kunyu-semrush-keywords-all-pages-20261016-165047.csv",
+      "source_volume": "110",
+      "source_kd": "17",
+      "target": "https://huangsifurniture.com/products/folding-tables",
+      "treatment": "Use natural folding conference tables phrase in title, description and introduction; retain existing room planning content."
+    },
+    {
+      "keyword": "folding conference tables",
+      "source": "kunyu-semrush-keywords-all-pages-20261016-165047.csv",
+      "source_volume": "140",
+      "source_kd": "10",
+      "target": "https://huangsifurniture.com/products/folding-tables",
+      "treatment": "Use natural folding conference tables phrase in title, description and introduction; retain existing room planning content."
+    },
+    {
+      "keyword": "mesh chair manufacturer",
+      "source": "Previously inspected Google Search Console report, 2026-07-21 to 2026-10-14",
+      "historical_impressions": 20,
+      "target": "https://huangsifurniture.com/products/mesh-office-chairs",
+      "treatment": "Improve category introduction around purchasing intent; existing manufacturer title and procurement details retained."
+    },
+    {
+      "keyword": "modular workstation manufacturer",
+      "source": "Previously inspected Google Search Console report, 2026-07-21 to 2026-10-14",
+      "historical_impressions": 19,
+      "target": "https://huangsifurniture.com/products/staff-desk",
+      "treatment": "Improve category introduction around purchasing intent; existing manufacturer title and procurement details retained."
+    }
+  ]
+}
