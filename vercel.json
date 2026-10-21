@@ -51,5 +51,7 @@
       "destination": "/products/lounge-chairs",
       "permanent": true
     }
-  ]
+  ],
+  "buildCommand": "node scripts/assemble-catalogues.mjs",
+  "outputDirectory": "."
 }

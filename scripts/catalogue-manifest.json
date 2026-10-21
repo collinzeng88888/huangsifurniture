@@ -1,0 +1,142 @@
+[
+  {
+    "output": "assets/downloads/catalogues/hs-2026-contents-1.pdf",
+    "size": 14189595,
+    "sha256": "7f2c107f404232c8f0279fb61471fc442812ef53f1184dc64c611e67ee8f9247",
+    "parts": [
+      ".catalogue-parts/hs-2026-contents-1.part-000",
+      ".catalogue-parts/hs-2026-contents-1.part-001",
+      ".catalogue-parts/hs-2026-contents-1.part-002"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-2026-contents-2.pdf",
+    "size": 27630801,
+    "sha256": "470dd6b1d6f117156443c9285ecd7c036c2fe4d69d08443c60c518ed023673d5",
+    "parts": [
+      ".catalogue-parts/hs-2026-contents-2.part-000",
+      ".catalogue-parts/hs-2026-contents-2.part-001",
+      ".catalogue-parts/hs-2026-contents-2.part-002",
+      ".catalogue-parts/hs-2026-contents-2.part-003",
+      ".catalogue-parts/hs-2026-contents-2.part-004"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-2026-contents-3.pdf",
+    "size": 18892849,
+    "sha256": "146fcdf36960618f85cc128b012744e17f139ee9657010560a6f948607b18e5e",
+    "parts": [
+      ".catalogue-parts/hs-2026-contents-3.part-000",
+      ".catalogue-parts/hs-2026-contents-3.part-001",
+      ".catalogue-parts/hs-2026-contents-3.part-002",
+      ".catalogue-parts/hs-2026-contents-3.part-003"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-2026-contents-4.pdf",
+    "size": 28937187,
+    "sha256": "b952a3d7a8315e54ab10c514a3ad423e651502ca811641a947f45a5713702579",
+    "parts": [
+      ".catalogue-parts/hs-2026-contents-4.part-000",
+      ".catalogue-parts/hs-2026-contents-4.part-001",
+      ".catalogue-parts/hs-2026-contents-4.part-002",
+      ".catalogue-parts/hs-2026-contents-4.part-003",
+      ".catalogue-parts/hs-2026-contents-4.part-004"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-ergonomic-chair-1.pdf",
+    "size": 22054690,
+    "sha256": "503e77de8dc4b2463008344ae1424bf3bf1b6c1a8f51822e9169845a7c833b51",
+    "parts": [
+      ".catalogue-parts/hs-ergonomic-chair-1.part-000",
+      ".catalogue-parts/hs-ergonomic-chair-1.part-001",
+      ".catalogue-parts/hs-ergonomic-chair-1.part-002",
+      ".catalogue-parts/hs-ergonomic-chair-1.part-003"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-ergonomic-chair-2.pdf",
+    "size": 14988032,
+    "sha256": "adbddad9e9b2589e92f9a09ecb1afc08c31f214d61fa41d302db5702a20ad350",
+    "parts": [
+      ".catalogue-parts/hs-ergonomic-chair-2.part-000",
+      ".catalogue-parts/hs-ergonomic-chair-2.part-001",
+      ".catalogue-parts/hs-ergonomic-chair-2.part-002"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-esports-chair-1.pdf",
+    "size": 35530188,
+    "sha256": "f3075ad5dd9fd91cb21341fd9593d461bee62447c511c39289ec9cd264e4d421",
+    "parts": [
+      ".catalogue-parts/hs-esports-chair-1.part-000",
+      ".catalogue-parts/hs-esports-chair-1.part-001",
+      ".catalogue-parts/hs-esports-chair-1.part-002",
+      ".catalogue-parts/hs-esports-chair-1.part-003",
+      ".catalogue-parts/hs-esports-chair-1.part-004",
+      ".catalogue-parts/hs-esports-chair-1.part-005"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-esports-chair-2.pdf",
+    "size": 19500819,
+    "sha256": "be5807cc36a8b61710139d493acb4a01093b866c760c6de88508679750fcc3fe",
+    "parts": [
+      ".catalogue-parts/hs-esports-chair-2.part-000",
+      ".catalogue-parts/hs-esports-chair-2.part-001",
+      ".catalogue-parts/hs-esports-chair-2.part-002",
+      ".catalogue-parts/hs-esports-chair-2.part-003"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-leather-chair-catalogue.pdf",
+    "size": 42714486,
+    "sha256": "f631da065f664bdb478e68a0a9a9337e9beb3e628f900c80720e99308955f7f7",
+    "parts": [
+      ".catalogue-parts/hs-leather-chair-catalogue.part-000",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-001",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-002",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-003",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-004",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-005",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-006",
+      ".catalogue-parts/hs-leather-chair-catalogue.part-007"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-leisure-furniture-catalogue.pdf",
+    "size": 47084715,
+    "sha256": "eea8fb9ae7ea6556fe26c75067e20115767bdf8d03994d0cccf3136db28c278f",
+    "parts": [
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-000",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-001",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-002",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-003",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-004",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-005",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-006",
+      ".catalogue-parts/hs-leisure-furniture-catalogue.part-007"
+    ]
+  },
+  {
+    "output": "assets/downloads/catalogues/hs-medical-furniture-catalogue.pdf",
+    "size": 77087537,
+    "sha256": "115f910b0180329af4fc4c10a67b8c35e4225d9d189b4ab4f720f3fde0d204ee",
+    "parts": [
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-000",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-001",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-002",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-003",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-004",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-005",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-006",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-007",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-008",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-009",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-010",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-011",
+      ".catalogue-parts/hs-medical-furniture-catalogue.part-012"
+    ]
+  }
+]
