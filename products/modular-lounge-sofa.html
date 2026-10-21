@@ -45,7 +45,7 @@
     ]
   }
   </script>
-</head>
+<link rel="stylesheet" href="/assets/css/b2b-conversion.css"><script defer src="/assets/js/b2b-conversion.js"></script></head>
 <body class="executive-detail-page flow-sofa-page">
   <div class="topbar"><div class="container"><span>Factory supplier for bulk office furniture projects</span><span>OEM / ODM · MOQ · 20GP / 40HQ Loading · RFQ</span></div></div>
   <header class="site-header">
@@ -60,7 +60,7 @@
         <a href="/applications/reception-area-furniture">Reception</a>
         <a href="/oem-manufacturing">OEM</a>
         <a href="/catalog">Catalog</a>
-        <a class="btn" href="/contact">Request Quote</a>
+        <a class="btn" href="#project-rfq">Request Quote</a>
       </nav>
     </div>
   </header>
@@ -72,7 +72,7 @@
       <div class="flow-hero__content">
         <nav class="exec-breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/products/office-sofa">Lounge Seating</a><span>/</span><strong>Flow Modular Sofa</strong></nav>
         <span class="exec-overline">Flow Collection · Modular Lounge Seating</span>
-        <h1>Shape the way<br>people connect.</h1>
+        <h1>Shape the way<br>people connect.</h1><div class="hs-actions"><a href="#project-rfq">Request This Product Quote</a></div>
         <p>A fluid modular sofa system that turns reception, collaboration and hospitality spaces into comfortable social destinations.</p>
         <div class="flow-hero__actions">
           <a class="exec-button" href="#inquiry">Request Project Quote</a>
@@ -219,31 +219,18 @@
         <div class="quote-form">
           <h3>Request a Flow Proposal</h3>
           <p class="small">Tell us the layout, quantity and destination market.</p>
-          <form data-rfq-form>
-            <label for="flow-rfq-name">Name</label>
-            <input id="flow-rfq-name" name="name" autocomplete="name" required>
-            <label for="flow-rfq-email">Email</label>
-            <input id="flow-rfq-email" type="email" name="email" autocomplete="email" required>
-            <label for="flow-rfq-product">Product Needed</label>
-            <select id="flow-rfq-product" name="product"><option selected>Flow Curved Modular Lounge Sofa</option><option>Office Lounge Seating</option><option>Reception Furniture</option><option>OEM Project</option></select>
-            <label for="flow-rfq-message">Project Details</label>
-            <textarea id="flow-rfq-message" name="message" rows="5" required placeholder="Layout, target footprint, quantity, finish and destination port..."></textarea>
-            <label class="form-consent"><input type="checkbox" name="consent" required><span>I agree to the <a href="/privacy">privacy policy</a> and allow HUANGSI to use these details to respond to my inquiry.</span></label>
-            <button class="btn" type="submit">Prepare Email RFQ</button>
-            <button class="btn secondary" type="button" data-copy-rfq>Copy RFQ Details</button>
-            <p class="form-status" data-form-status aria-live="polite"></p>
-          </form>
+
         </div>
       </div>
     </section>
-  </main>
+  <section class="hs-rfq" id="project-rfq" aria-labelledby="hs-rfq-title"><h2 id="hs-rfq-title">Request a Project Quote</h2><p>Tell us your quantity, destination and specification. Ask for model-specific MOQ, lead time, OEM / ODM options and mixed-container planning in one inquiry.</p><form data-hs-rfq><div class="hs-rfq-grid"><label>Name *<input name="name" type="text" maxlength="200" required value="" ></label><label>Business email *<input name="email" type="email" maxlength="200" required value="" ></label><label>Company<input name="company" type="text" maxlength="200"  value="" ></label><label>Country / region *<input name="country" type="text" maxlength="200" required value="" ></label><label>Product / solution<input name="product" type="text" maxlength="200" required value="Shape the way people connect." readonly></label><label>Quantity / number of seats *<input name="quantity" type="text" maxlength="200" required value="" ></label><label>Destination port / city<input name="destination" type="text" maxlength="200"  value="" ></label><label>Target delivery month<input name="schedule" type="month" maxlength="200"  value="" ></label></div><input type="hidden" name="source" value="https://huangsifurniture.com/products/modular-lounge-sofa"><label>Project details *<textarea name="message" required maxlength="3000" placeholder="Sizes, finishes, customization and packing requirements. Send drawings or attachments with your email or WhatsApp message."></textarea></label><label class="hs-consent"><input type="checkbox" required><span>I agree to the <a href="/privacy">privacy policy</a> and allow HUANGSI to respond to my inquiry.</span></label><div class="hs-rfq-buttons"><button type="submit">Prepare Email RFQ</button><button type="button" data-hs-whatsapp>Continue in WhatsApp</button><button type="button" data-hs-copy>Copy RFQ</button></div><small>Review and send in your email application or WhatsApp. This form does not submit directly to a server. Email: huangsifurniture@gmail.com</small><p role="status" aria-live="polite"></p></form></section></main>
 
   <footer class="footer">
     <div class="container footer-grid">
       <div><a class="brand" href="/"><img src="/assets/images/logo-huangsi.png" width="1105" height="170" alt="HUANGSI logo"></a><p>Commercial office furniture manufacturer for workstations, office chairs, desks, storage, acoustic solutions and OEM projects.</p><p><strong>Bulk Export · OEM / ODM · Project Supply</strong></p></div>
       <div><h4>Products</h4><a href="/products/office-workstation">Office Workstations</a><a href="/products/ergonomic-mesh-office-chair">Office Chairs</a><a href="/products/executive-office-desk">Executive Desks</a><a href="/products/office-storage-cabinet">Storage Cabinets</a></div>
       <div><h4>Solutions</h4><a href="/applications/corporate-office-projects">Corporate Offices</a><a href="/applications/co-working-space-furniture">Co-working Spaces</a><a href="/products/acoustic-wall-panels">Acoustic Panels</a><a href="/oem-manufacturing">OEM Manufacturing</a></div>
-      <div><h4>Contact</h4><p>huangsifurniture@gmail.com<br>+8613928602558</p><a class="btn" href="/contact">Send RFQ</a><a class="btn secondary" href="/catalog">Request Catalog</a></div>
+      <div><h4>Contact</h4><p>huangsifurniture@gmail.com<br>+8613928602558</p><a class="btn" href="#project-rfq">Send RFQ</a><a class="btn secondary" href="/catalog">Request Catalog</a></div>
     </div>
     <div class="container footer-bottom"><span>© 2026 Foshan Huangsi Furniture Co., Ltd. All rights reserved.</span><span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/sitemap">Sitemap</a></span></div>
   </footer>

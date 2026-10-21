@@ -55,7 +55,7 @@
     ]
   }
   </script>
-</head>
+<link rel="stylesheet" href="/assets/css/b2b-conversion.css"><script defer src="/assets/js/b2b-conversion.js"></script></head>
 <body class="executive-detail-page">
   <div class="topbar">
     <div class="container">
@@ -79,7 +79,7 @@
         <a href="/products/reception-desk">Reception</a>
         <a href="/oem-manufacturing">OEM</a>
         <a href="/catalog">Catalog</a>
-        <a class="btn" href="/contact">Request Quote</a>
+        <a class="btn" href="#project-rfq">Request Quote</a>
       </nav>
     </div>
   </header>
@@ -95,7 +95,7 @@
         <div class="exec-intro-grid">
           <div>
             <span class="exec-kicker">Executive Office Collection · FA-T01</span>
-            <h1>Curved Executive Desk</h1>
+            <h1>Curved Executive Desk</h1><div class="hs-actions"><a href="#project-rfq">Request This Product Quote</a></div>
             <p class="exec-intro-copy">A sculptural workstation designed to anchor the private office. Expansive curves, an integrated return and coordinated storage create a confident setting for focused work, conversation and decision-making.</p>
             <div class="exec-intro-actions">
               <a class="exec-button" href="#request-quote">Request a Project Quote</a>
@@ -265,33 +265,11 @@
         <div class="quote-form">
           <h3>Request an FA-T01 Quote</h3>
           <p class="small">Share the size, return orientation, quantity, finish and destination port.</p>
-          <form data-rfq-form>
-            <label for="fa-t01-rfq-name">Name</label>
-            <input id="fa-t01-rfq-name" name="name" autocomplete="name" required>
-            <label for="fa-t01-rfq-email">Email</label>
-            <input id="fa-t01-rfq-email" type="email" name="email" autocomplete="email" required>
-            <label for="fa-t01-rfq-product">Product Needed</label>
-            <select id="fa-t01-rfq-product" name="product">
-              <option selected>FA-T01 Curved Executive Desk</option>
-              <option>Executive Desk Project</option>
-              <option>Executive Chair + Desk Set</option>
-              <option>Complete Office Project</option>
-            </select>
-            <label for="fa-t01-rfq-message">Project Details</label>
-            <textarea id="fa-t01-rfq-message" name="message" rows="5" required placeholder="Size, left/right return, quantity, finish and destination port..."></textarea>
-            <label class="form-consent">
-              <input type="checkbox" name="consent" required>
-              <span>I agree to the <a href="/privacy">privacy policy</a> and allow HUANGSI to use these details to respond to my inquiry.</span>
-            </label>
-            <button class="btn" type="submit">Prepare Email RFQ</button>
-            <button class="btn secondary" type="button" data-copy-rfq>Copy RFQ Details</button>
-            <p class="form-status" data-rfq-status aria-live="polite"></p>
-            <p class="form-note">Opens your email application for review before sending.</p>
-          </form>
+
         </div>
       </div>
     </section>
-  </main>
+  <section class="hs-rfq" id="project-rfq" aria-labelledby="hs-rfq-title"><h2 id="hs-rfq-title">Request a Project Quote</h2><p>Tell us your quantity, destination and specification. Ask for model-specific MOQ, lead time, OEM / ODM options and mixed-container planning in one inquiry.</p><form data-hs-rfq><div class="hs-rfq-grid"><label>Name *<input name="name" type="text" maxlength="200" required value="" ></label><label>Business email *<input name="email" type="email" maxlength="200" required value="" ></label><label>Company<input name="company" type="text" maxlength="200"  value="" ></label><label>Country / region *<input name="country" type="text" maxlength="200" required value="" ></label><label>Product / solution<input name="product" type="text" maxlength="200" required value="Curved Executive Desk" readonly></label><label>Quantity / number of seats *<input name="quantity" type="text" maxlength="200" required value="" ></label><label>Destination port / city<input name="destination" type="text" maxlength="200"  value="" ></label><label>Target delivery month<input name="schedule" type="month" maxlength="200"  value="" ></label></div><input type="hidden" name="source" value="https://huangsifurniture.com/products/office-desk"><label>Project details *<textarea name="message" required maxlength="3000" placeholder="Sizes, finishes, customization and packing requirements. Send drawings or attachments with your email or WhatsApp message."></textarea></label><label class="hs-consent"><input type="checkbox" required><span>I agree to the <a href="/privacy">privacy policy</a> and allow HUANGSI to respond to my inquiry.</span></label><div class="hs-rfq-buttons"><button type="submit">Prepare Email RFQ</button><button type="button" data-hs-whatsapp>Continue in WhatsApp</button><button type="button" data-hs-copy>Copy RFQ</button></div><small>Review and send in your email application or WhatsApp. This form does not submit directly to a server. Email: huangsifurniture@gmail.com</small><p role="status" aria-live="polite"></p></form></section></main>
 
   <footer class="footer">
     <div class="container footer-grid">
@@ -305,7 +283,7 @@
       </div>
       <div><h4>Products</h4><a href="/products/office-workstation">Office Workstations</a><a href="/products/ergonomic-mesh-office-chair">Office Chairs</a><a href="/products/executive-office-desk">Executive Desks</a><a href="/products/office-storage-cabinet">Storage Cabinets</a></div>
       <div><h4>Solutions</h4><a href="/applications/corporate-office-projects">Corporate Offices</a><a href="/applications/co-working-space-furniture">Co-working Spaces</a><a href="/products/acoustic-wall-panels">Acoustic Panels</a><a href="/oem-manufacturing">OEM Manufacturing</a></div>
-      <div><h4>Contact</h4><a href="mailto:huangsifurniture@gmail.com">huangsifurniture@gmail.com</a><a href="tel:+8613928602558">+8613928602558</a><a href="/contact">Send RFQ</a><a href="/catalog">Request Catalog</a></div>
+      <div><h4>Contact</h4><a href="mailto:huangsifurniture@gmail.com">huangsifurniture@gmail.com</a><a href="tel:+8613928602558">+8613928602558</a><a href="#project-rfq">Send RFQ</a><a href="/catalog">Request Catalog</a></div>
     </div>
     <div class="container footer-bottom"><span>© 2026 Foshan Huangsi Furniture Co., Ltd. All rights reserved.</span><span class="footer-legal"><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/sitemap">Sitemap</a></span></div>
   </footer>
