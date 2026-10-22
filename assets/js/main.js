@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function(){
       const status = form.querySelector('[data-rfq-status]');
       if(status) status.textContent = 'Opening your email application with the RFQ details prepared…';
 
-      window.location.href = `mailto:huangsifurniture@gmail.com?subject=${encodeURIComponent(subjectParts.join(' - '))}&body=${encodeURIComponent(body)}`;
+      window.location.href = `mailto:yuna@huangsifurniture.com?subject=${encodeURIComponent(subjectParts.join(' - '))}&body=${encodeURIComponent(body)}`;
     });
 
     const copyButton = form.querySelector('[data-copy-rfq]');
@@ -214,10 +214,10 @@ document.addEventListener('DOMContentLoaded', function(){
         const {body} = buildRfqMessage(form);
         const status = form.querySelector('[data-rfq-status]');
         try{
-          await navigator.clipboard.writeText(`To: huangsifurniture@gmail.com\n\n${body}`);
+          await navigator.clipboard.writeText(`To: yuna@huangsifurniture.com\n\n${body}`);
           if(status) status.textContent = 'RFQ details copied. Paste them into your preferred email or messaging application.';
         }catch{
-          if(status) status.textContent = 'Copy was blocked by your browser. Email huangsifurniture@gmail.com directly.';
+          if(status) status.textContent = 'Copy was blocked by your browser. Email yuna@huangsifurniture.com directly.';
         }
       });
     }
