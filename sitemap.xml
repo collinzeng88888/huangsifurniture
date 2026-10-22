@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://huangsifurniture.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,31 +20,49 @@
   </url>
   <url>
     <loc>https://huangsifurniture.com/applications/co-working-space-furniture</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://huangsifurniture.com/applications/corporate-office-projects</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://huangsifurniture.com/applications/education-furniture</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://huangsifurniture.com/applications/healthcare-waiting-furniture</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://huangsifurniture.com/applications/hospitality-furniture</loc>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://huangsifurniture.com/applications/meeting-room-furniture</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://huangsifurniture.com/applications/open-plan-office-furniture</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://huangsifurniture.com/applications/reception-area-furniture</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
