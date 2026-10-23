@@ -1,4 +1,11 @@
 document.addEventListener('DOMContentLoaded', function(){
+  const productPageSchema = Array.from(document.querySelectorAll('script[type="application/ld+json"]')).map(node => { try { return JSON.parse(node.textContent); } catch { return null; } }).find(data => data && data['@type'] === 'ItemPage');
+  if (productPageSchema && location.pathname.startsWith('/products/')) {
+    const productSchema = {'@context':'https://schema.org','@type':'Product','@id':`${location.href}#product`,name:productPageSchema.name||document.querySelector('h1')?.textContent?.trim(),description:productPageSchema.description||document.querySelector('meta[name="description"]')?.content,url:location.href,image:productPageSchema.image,brand:{'@type':'Brand',name:'HUANGSI'},manufacturer:{'@type':'Organization',name:'Foshan Huangsi Furniture Co., Ltd.'},category:'Commercial Office Furniture'};
+    const node=document.createElement('script'); node.type='application/ld+json'; node.textContent=JSON.stringify(productSchema); document.head.appendChild(node);
+    const badges=document.querySelector('.badge-row'); if(badges&&!document.querySelector('.compliance-badges')) badges.insertAdjacentHTML('afterend','<div class="compliance-badges" aria-label="Compliance documentation"><span class="compliance-badge compliance-badge--ce">CE Documentation <small>Applicable models</small></span><span class="compliance-badge">EU Market Support <small>Documentation on request</small></span></div>');
+  }
+  const homeTags=document.querySelector('.home-footer-tags'); if(homeTags&&!document.querySelector('.home-compliance-badges')) homeTags.insertAdjacentHTML('afterend','<div class="home-compliance-badges" aria-label="Compliance documentation"><span>CE Documentation · Applicable Models</span><span>EU Market Support · On Request</span></div>');
   const btn = document.querySelector('.mobile-toggle');
   const nav = document.querySelector('.nav-links');
   const header = document.querySelector('.home-header');
