@@ -918,6 +918,7 @@
 .form-note,.form-status{font-size:13px;color:var(--muted);margin:12px 0 0}
 .form-status{color:#23506f;font-weight:700}
 .quote-form [data-copy-rfq]{margin-left:8px}
+.contact-wechat{margin:18px 0;border-top:1px solid var(--line);padding-top:16px}.contact-wechat summary{cursor:pointer;display:inline-flex;align-items:center;gap:8px;background:#07c160;color:#fff;border-radius:999px;padding:10px 14px;font-size:13px;font-weight:800;list-style:none}.contact-wechat summary::-webkit-details-marker{display:none}.contact-wechat summary:before{content:"●●";font-size:8px;letter-spacing:-2px}.contact-wechat img{display:block;width:min(240px,100%);height:auto;margin:14px 0 8px;border:1px solid var(--line);border-radius:12px}
 .footer-bottom{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
 .footer-legal{white-space:nowrap}
 .footer-legal a,.home-footer-bottom a{color:inherit}
