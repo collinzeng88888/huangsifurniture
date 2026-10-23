@@ -240,11 +240,17 @@ document.addEventListener('DOMContentLoaded', function(){
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
     let activeIndex = slides.findIndex(slide => slide.classList.contains('is-active'));
     if(activeIndex < 0) activeIndex = 0;
+    const loadSlide = index => {
+      const image = slides[index]?.querySelector('img[data-src]');
+      if(image){ image.src = image.dataset.src; delete image.dataset.src; }
+    };
+    loadSlide(activeIndex);
     let timer = null;
     let userPaused = reduceMotion.matches;
 
     const setSlide = (index)=>{
       activeIndex = (index + slides.length) % slides.length;
+      loadSlide(activeIndex);
       slides.forEach((slide, i)=> slide.classList.toggle('is-active', i === activeIndex));
       dots.forEach((dot, i)=>{
         const isActive = i === activeIndex;
