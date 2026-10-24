@@ -178,58 +178,6 @@ document.addEventListener('DOMContentLoaded', function(){
     });
   });
 
-  const buildRfqMessage = form=>{
-    const values = Object.fromEntries(new FormData(form).entries());
-    const labels = {
-      name: 'Name',
-      company: 'Company',
-      email: 'Business email',
-      country: 'Country / region',
-      product: 'Product category',
-      quantity: 'Estimated quantity',
-      destination: 'Destination',
-      schedule: 'Target schedule',
-      message: 'Project details'
-    };
-    const body = Object.entries(labels)
-      .filter(([key])=> values[key])
-      .map(([key,label])=> `${label}: ${values[key]}`)
-      .join('\n\n');
-    return {values, body};
-  };
-
-  document.querySelectorAll('[data-rfq-form]').forEach(form=>{
-    form.addEventListener('submit', event=>{
-      event.preventDefault();
-      if(!form.reportValidity()) return;
-
-      const {values, body} = buildRfqMessage(form);
-      const subjectParts = ['Website RFQ'];
-      if(values.product) subjectParts.push(values.product);
-      if(values.company || values.name) subjectParts.push(values.company || values.name);
-
-      const status = form.querySelector('[data-rfq-status]');
-      if(status) status.textContent = 'Opening your email application with the RFQ details prepared…';
-
-      window.location.href = `mailto:yuna@huangsifurniture.com?subject=${encodeURIComponent(subjectParts.join(' - '))}&body=${encodeURIComponent(body)}`;
-    });
-
-    const copyButton = form.querySelector('[data-copy-rfq]');
-    if(copyButton){
-      copyButton.addEventListener('click', async ()=>{
-        if(!form.reportValidity()) return;
-        const {body} = buildRfqMessage(form);
-        const status = form.querySelector('[data-rfq-status]');
-        try{
-          await navigator.clipboard.writeText(`To: yuna@huangsifurniture.com\n\n${body}`);
-          if(status) status.textContent = 'RFQ details copied. Paste them into your preferred email or messaging application.';
-        }catch{
-          if(status) status.textContent = 'Copy was blocked by your browser. Email yuna@huangsifurniture.com directly.';
-        }
-      });
-    }
-  });
-
   const heroSlider = document.querySelector('.cover-hero-slider');
   if(heroSlider){
     const slides = Array.from(heroSlider.querySelectorAll('.cover-hero-slide'));
