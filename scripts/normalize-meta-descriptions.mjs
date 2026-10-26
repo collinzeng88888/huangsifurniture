@@ -31,9 +31,9 @@ function walk(directory){
       const relative=path.relative(root,full).replaceAll(path.sep,'/');
       let source=fs.readFileSync(full,'utf8'),updated=source;
       if(descriptionOverrides[relative]){
-        updated=updated.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/i,'$1'+descriptionOverrides[relative]+'$2');
+        updated=updated.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/i,'$1'+lengthen(descriptionOverrides[relative])+'$2');
       }else{
-        updated=updated.replace(/(<meta\s+name="description"\s+content=")([^"]*)(")/i,(match,start,value,end)=>start+shorten(value)+end);
+        updated=updated.replace(/(<meta\s+name="description"\s+content=")([^"]*)(")/i,(match,start,value,end)=>start+lengthen(shorten(value))+end);
       }
       if(updated!==source)descriptions++;
       if(titleOverrides[relative]){
