@@ -1,6 +1,24 @@
 const recipient='yuna@huangsifurniture.com';
 const allowedOrigins=new Set(['https://huangsifurniture.com','https://www.huangsifurniture.com']);
 const limits={name:200,company:200,email:200,country:200,product:300,quantity:200,destination:200,schedule:100,message:3000,source:1000};
+const rateWindowMs=10*60*1000;
+const maxRequestsPerWindow=5;
+const rateBuckets=new Map();
+
+const clientAddress=req=>{
+  const forwarded=String(req.headers['x-forwarded-for']||'').split(',')[0].trim();
+  return forwarded||String(req.headers['x-real-ip']||'').trim()||'unknown';
+};
+const allowRequest=req=>{
+  const now=Date.now(),key=clientAddress(req),current=rateBuckets.get(key);
+  if (!current||now-current.startedAt>=rateWindowMs) {
+    rateBuckets.set(key,{startedAt:now,count:1});
+    if (rateBuckets.size>10000) rateBuckets.clear();
+    return true;
+  }
+  current.count+=1;
+  return current.count<=maxRequestsPerWindow;
+};
 
 const value=(input,key)=>String(input?.[key]||'').trim().replace(/[\u0000-\u001F\u007F]/g,' ').slice(0,limits[key]||200);
 const isEmail=email=>/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
