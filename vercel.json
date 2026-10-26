@@ -24,7 +24,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self' mailto:"
+          "value": "default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com; font-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self' mailto:"
         }
       ]
     },
@@ -66,6 +66,6 @@
       "permanent": true
     }
   ],
-  "buildCommand": "node scripts/assemble-catalogues.mjs && node scripts/normalize-rfq-copy.mjs && node scripts/optimize-image-loading.mjs && node scripts/audit-site.mjs && node scripts/audit-indexing.mjs",
+  "buildCommand": "node scripts/assemble-catalogues.mjs && node scripts/normalize-rfq-copy.mjs && node scripts/optimize-image-loading.mjs && node scripts/inject-ga4.mjs && node scripts/audit-site.mjs && node scripts/audit-indexing.mjs",
   "outputDirectory": "."
 }
