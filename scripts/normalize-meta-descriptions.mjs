@@ -5,8 +5,12 @@ import { fileURLToPath } from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const descriptionOverrides={
   'applications/education-furniture.html':'Plan education furniture for training rooms, staff offices and reading lounges. Specify tables, chairs, storage and finishes for schools and learning projects.',
-  'applications/healthcare-waiting-furniture.html':'Plan healthcare waiting-room furniture with companion seating, reception desks and staff workspaces. Compare durable options for clinics, hospitals and care projects.',
-  'applications/hospitality-furniture.html':'Coordinate hospitality furniture for reception, lounge seating and back-office workspaces. Plan durable commercial pieces for hotels, lobbies and guest-facing projects.'
+  'applications/healthcare-waiting-furniture.html':'Plan healthcare waiting-room furniture with companion seating, reception desks and staff workspaces. Compare options for clinics, hospitals and care projects.',
+  'applications/hospitality-furniture.html':'Coordinate hospitality furniture for reception, lounge seating and back-office workspaces. Plan commercial pieces for hotels, lobbies and guest-facing projects.'
+};
+const lengthen=value=>{
+  if(value.length>=120)return value;
+  return value+(value.length<100?' View specifications, dimensions and project order options.':' View specifications and request a quote.');
 };
 const titleOverrides={
   'products/modular-office-workstation.html':'Modular Office Workstations & Benching Systems | HUANGSI',
