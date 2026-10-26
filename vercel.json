@@ -66,6 +66,6 @@
       "permanent": true
     }
   ],
-  "buildCommand": "node scripts/assemble-catalogues.mjs && node scripts/normalize-rfq-copy.mjs && node scripts/normalize-legal-links.mjs && node scripts/normalize-meta-descriptions.mjs && node scripts/optimize-image-loading.mjs && node scripts/inject-ga4.mjs && node scripts/audit-site.mjs && node scripts/audit-indexing.mjs",
+  "buildCommand": "node scripts/build-site.mjs",
   "outputDirectory": "."
 }
