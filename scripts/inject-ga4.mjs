@@ -15,6 +15,7 @@ gtag('config','${measurementId}',{anonymize_ip:true});
 <script>
 document.addEventListener('DOMContentLoaded',function(){
   var key='huangsi_analytics_consent';
+  if(new URLSearchParams(location.search).has('analytics-preferences'))localStorage.removeItem(key);
   var saved=localStorage.getItem(key);
   function grant(){gtag('consent','update',{analytics_storage:'granted'});}
   if(saved==='granted'){grant();return;}
