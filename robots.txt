@@ -5,3 +5,4 @@ User-agent: *
 Allow: /
 Sitemap: https://huangsifurniture.com/sitemap.xml
 Sitemap: https://huangsifurniture.com/image-sitemap.xml
+Sitemap: https://huangsifurniture.com/sitemap-priority.xml
