@@ -18,10 +18,23 @@ for (const entry of fs.readdirSync(path.join(root, 'blog'))) {
   if (entry.endsWith('.html')) targets.push(path.join(root, 'blog', entry));
 }
 
+function addHomepageShellClass(source) {
+  return source.replace(/<body\b([^>]*)>/i, (tag, attrs) => {
+    const classMatch = attrs.match(/\bclass=(["'])(.*?)\1/i);
+    if (classMatch) {
+      const classes = new Set(classMatch[2].split(/\s+/).filter(Boolean));
+      classes.add('home-page');
+      classes.add('blog-page');
+      return tag.replace(classMatch[0], `class="${[...classes].join(' ')}"`);
+    }
+    return `<body class="home-page blog-page"${attrs}>`;
+  });
+}
+
 let updated = 0;
 for (const target of targets) {
   const source = fs.readFileSync(target, 'utf8');
-  const next = source
+  const next = addHomepageShellClass(source)
     .replace(/<header\b[^>]*>[\s\S]*?<\/header>/, blogHeader)
     .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/, footer);
   if (next !== source) {
