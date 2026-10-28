@@ -9,6 +9,7 @@ const steps=[
   'normalize-legal-links.mjs',
   'normalize-blog-links.mjs',
   'normalize-blog-navigation.mjs',
+  'normalize-blog-shell.mjs',
   'normalize-meta-descriptions.mjs',
   'optimize-image-loading.mjs',
   'inject-ga4.mjs',
