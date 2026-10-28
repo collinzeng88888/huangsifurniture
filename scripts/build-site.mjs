@@ -7,6 +7,7 @@ const steps=[
   'assemble-catalogues.mjs',
   'normalize-rfq-copy.mjs',
   'normalize-legal-links.mjs',
+  'normalize-blog-links.mjs',
   'normalize-meta-descriptions.mjs',
   'optimize-image-loading.mjs',
   'inject-ga4.mjs',
