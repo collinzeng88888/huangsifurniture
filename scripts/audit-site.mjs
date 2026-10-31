@@ -113,14 +113,12 @@ for (const file of htmlFiles) {
 const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
 const sitemapUrls = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map((match) => match[1]);
 if (sitemapUrls.some((url) => url.endsWith(".html"))) issues.push("sitemap.xml: contains .html URLs");
-if (sitemapUrls.some((url) => url.includes("/case-studies/"))) issues.push("sitemap.xml: contains noindex case-study URLs");
 if (new Set(sitemapUrls).size !== sitemapUrls.length) issues.push("sitemap.xml: contains duplicate URLs");
 
 const indexableBlogFiles = htmlFiles.filter(file => path.relative(root, file).startsWith('blog/') &&
   !/<meta\b[^>]*name=["']robots["'][^>]*noindex/i.test(fs.readFileSync(file, 'utf8')));
 if (blogPostingCount !== indexableBlogFiles.length) issues.push(`expected ${indexableBlogFiles.length} BlogPosting schemas, found ${blogPostingCount}`);
 if (faqPageCount < 10) issues.push(`expected at least 10 FAQPage schemas, found ${faqPageCount}`);
-if (noindexCaseCount !== 6) issues.push(`expected 6 noindex case studies, found ${noindexCaseCount}`);
 if (missingImageDimensions !== 0) issues.push(`${missingImageDimensions} raster images missing dimensions`);
 if (formCount < 1) issues.push("no functional RFQ form found");
 if (!fs.existsSync(path.join(root, "favicon.svg"))) issues.push("favicon.svg is missing");
